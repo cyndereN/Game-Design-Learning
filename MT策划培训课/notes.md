@@ -164,3 +164,91 @@ Casual Game - Pac-Man 1980
 * 社交，竞技（博弈）
 
 
+---
+---
+
+# 游戏策划(REF: Tianyu Wang Blog)
+
+电视、电影、综艺、电子游戏……都属于现代工业化的产物——数字娱乐产品。电影的叙事性非常重要……电子游戏的产生，把故事的叙事方式带入了新的境界，亦即出现了其他的媒介都没有的一个重要特性——参与感。
+
+## 游戏策划是什么
+
+A game designer (or inventor) is the person who invents a game's concept, its central mechanisms, and its rules.
+
+A game designer is someone who conceptualizes game plots and storylines, levels and environments, character interactions, and other creative aspects. It’s their job to work with other specialists - like developers, artists, and others - to communicate ideas and then project manage those ideas through to game production. 
+
+Depending on the situation, game designers can specialize in a particular game element, and can work among a team of others for a commercial or independent game development company. They can even work on their own, conceiving, creating, programming, and publishing their own titles.  
+
+## 工作内容
+
+工作内容 = 产生想法（想法验证&迭代） + 想法落地（落地验证&迭代） + 过程管理
+
+### 产生想法
+
+知道自己为什么会这么想？知道自己要达到的目的？  
+
+- 概念/想法的来源：idea可以是来自自己的生活（原创），可以是来自其他的游戏（借鉴）。
+
+- 要达到的目的（抽象层面）：
+    - 要吸引怎样的用户？为用户设计的体验点是什么？为用户设计的付费点是什么？  
+
+    ```
+    e.g.
+    - 活动要达到的目的：付费向？留存向？
+        - 付费向：用户为什么想要付费？为了得到奖励？为了击败他人？
+        - 留存向：用户为什么想要多玩一会儿？为了得到奖励？为了接下来的体验？
+    ```
+
+- 要达到的目的（具象层面）：
+    - 要吸引怎样的用户？【量化】用户的外在特征是什么？
+    - 为用户设计的体验点是什么？体验点在游戏中的体现在哪里？过程参与感如何？【量化】如何评估这种体验（如何测评）？
+    - 为用户设计的付费点是什么？付费动力是什么？【量化】付费额度如何？
+    
+    ```
+    活动要达到的目的：
+        付费向？【预估付费可以提升 xx% ？】留存向？【预估留存可以提升 xx% ？】
+        付费向：为了去量化付费，需要哪些指标数据？
+        留存向：为了去量化留存，需要哪些指标数据？
+    ```
+
+### 想法落地
+
+落地，事情的可操作性有多大。用“重要-紧急”四象限进行划分。
+
+1. 验证层面  
+　a. 如何快速验证想法。  
+　　i. 想法主干  
+　　ii. 想法细节  
+　b. demo验证测试  
+　c. AB测试  
+
+2. 实现层面（注意：时刻警惕行为-目标的一致性，如果当前做事的价值很低，还是要做，那么支撑这个行为的目标是什么？是认为价值在之后会得以体现么？艺术性追求当然很好，但在此更要慎之又慎，警惕沉浸在“自己的世界”当中——【一个“不恰当”的比喻】就像既没有口碑，又没有票房的电影导演一样）  
+　a. 技术上、美术上等等是否能实现？  
+　b. 如果能实现，不同实现程度对应的成本是多少？  
+　c. 实现的最低要求是怎样的？  
+　d. 达到最低要求后，实现的边际效益如何变化？  
+　
+3. 迭代（优化）层面  
+　a. 重要且紧急：当前版本  
+　b. 重要非紧急：未来版本  
+　c. 紧急非重要：当前版本完成/踩坑，未来版本应该尽量减少  
+　d. 非重要非紧急：可以不做；但需要时刻反思，确保本象限内事情不会变化到其他象限。  
+Note：可能有些时候会发现，当下认为不重要&不紧急的事情，会在之后特定的条件下，变成或重要或紧急的事情。例如，对用户又有了新的认知，并推翻之前的认知……
+　
+### 过程管理
+任何事情在执行过程中，都难免出各种意外，为了保证任务实施过程和预期一致，过程管理必不可少。
+
+1. 方法论上：建议阅读一系列产品经理必读书籍，例如《启示录》。
+2. 日常工作-里程碑(milestone)
+    - 大里程碑设置
+        - 对应的demo检验
+    - 小里程碑设置
+        - 对应的demo检验
+3. 资源调配
+    a. 需要懂得基本的技术逻辑和美术逻辑，对事情的工作量、工作交付质量有基本的认知
+    b. 和合作部门保持密切沟通：鼓励式沟通，建议阅读《沟通的方法》
+4. 复盘总结
+    a. 充分进行团队复盘讨论：最好参与人员都有发言，不放过细节
+    b. 文档化、知识沉淀：“好记性不如烂笔头”；“书面文档”是在有时间跨度情况下最高效的沟通方式  
+
+***对事物的认知有三个表现层：思考、语言表达、文字表达。这三个层次代表对事物的认知的程度由浅到深。***
