@@ -44,7 +44,7 @@
 
 人始终在进行组块化(chunking)的过程。一旦人识别出一种模式，就能在追踪和识别它的过程中享受快乐。e.g., morning routine.
 
-人有时会过度相信chunke及其联想，从而导致犯错。这就是为什么不自己犯错就不会清楚。
+人有时会过度相信chunk及其联想，从而导致犯错。这就是为什么不自己犯错就不会清楚。
 
 Thinking is, mostly memory, pattern-matching against past experience
 
@@ -55,7 +55,7 @@ Thinking is, mostly memory, pattern-matching against past experience
 艺术必须遵从一定秩序而非完全的混沌，需要被人所理解，接受其模式，从而组块化。游戏也是如此。
 
 ### 3 Levels of Brain Functioning
-
+（相关：the design of everyday thing 中的章节“行动的七个阶段和大脑的三个层次”）
 1. Conscious Thought. 理性逻辑思考（智力理解）。
 Logical, works on a basically mathematical level. Sort of mind we measure when taking IQ test.
 
@@ -64,3 +64,30 @@ Really slow. It links this that don't make much sense. The part of chunking,
 
 3. Not thinking. 不思考的本能反应（完全理解）。
 Grok: understand something so thoroughly that you have become one with it and even love it. Has a lot in common with "muscle memory". （潜意识的？）它包含了本能做出的一系列决定，而建造这样的知识库的过程就是“练习”。在练习的过程中，大脑会得到锻炼，这也会带来快乐。
+
+## Chapter 3 What Games Are
+
+### 重提游戏定义
+Huizinga在《游戏的人》中对游戏的定义：“魔环（magic circle）”（自注：中国美术学院出版社，1996.10，多人译版中将其译作“巫术场”，原文为：“所有的游戏展开并据有游戏场所。这个场所有意无意，或从理想上或从实际中都被预先标画出来…竞技场、牌桌、巫术场、庙宇、舞台、屏幕、网球场、法庭等等，在形式和功能上都是游戏场合。它包含特殊的规矩，如禁止污损、互相隔离、划分禁地、神圣化等，这一切是平常世界中的暂时天地，用以一项活动的举行。”）。这个魔环是与现实世界不相连的。
+
+
+The more rigidly constructed your game, the more limited it will be.
+
+游戏描述的形态在现实中可能不存在，但游戏的规则（模式）与人处理真实事物的方式相同。
+
+### What is fun? 
+
+游戏是需要解开的谜题，它具有目标，可供人练习某个特定的模式。游戏包含的模式决定了游戏的局限性。来自游戏的快感是从掌握、理解游戏中获得的,“……但你只会在掌握模式之前去玩”。若游戏中有更多变量，玩家完整体验游戏所需的时间也会更长。游戏好玩意味着“让玩家保持学习状态”。
+
+厌倦感会以以下的形式出现，会使本应具有的令人愉悦的学习经历消失：
+
+- 玩家通过最初5分钟就弄清楚了游戏的玩法，从而觉得这样的游戏没什么意思，就像成年人玩井字游戏一样。“太简单”，这很可能是玩家对这种游戏的评价。
+- 玩家发现游戏要达到的可能的变化需要很多东西，但是这些东西却无法令他们兴趣。
+- 玩家没发现pattern。“太难了”
+- 游戏中的模式变化速度太慢，这会使游戏被过早的认为没什么可玩的而被放弃“太简单-都是在重复”
+- 玩家中的模式变化得太快了，这会使玩家因控制不了而放弃，“太难了，太快了”
+- 玩家也许精通游戏中的所有模式，这样愉悦感就会消失殆尽“我完全打败了”
+
+"Fun is another word for learning. Games teach you how aspects of reality work, how to understand yourself, and how to understand the actions of others, and how to imagine."
+
+## Chapter 4 What Games Teach Us
