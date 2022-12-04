@@ -143,13 +143,6 @@ The more rigidly constructed your game, the more limited it will be.
 
 操控感好的以跳跃为特色的游戏都自动遵循这一规则：角色在空中的跳跃时间几乎与按下跳跃键的时长相同。动作游戏会在训练玩家熟练掌握技巧之后利用任务推动玩家提高行动速度。这些例子都体现了潜意识和本能反应的应用。自主反应本身并不会带来快乐，你已经记住了这样的反应机制，因此只有在这种心理挑战的环境下完成了自主反应的时候，大脑才会将给你快乐的感觉。比如人们并不会从打字行为本身感到多爽，而是在这个过程中想出了如何去表达，或者在打字游戏中迅速打字的时候才会感到快乐。而策略游戏不应该设计限时模式，因为其目标并非训练条件反射的速度。
 
-所有的社交行为也是令人愉悦的。人人参与的社会地位连续更替是一种认知训练，因此从本质上说也是一种游戏。环绕交往行为周围的是一种积极的感情，是一种在社会阶梯中奖某人踢下去或者自己爬上来的信号，其中最著名的是：
-
-- 幸灾乐祸：当竞争对手失败时，你的一种沾沾自喜的感情，这种本质就是前面所说的将某人踢下去。
-- 骄傲：当完成一个重要任务时对胜利感的宣泄（例如挥动拳头），这是向他人表明自己有价值的信号。
-- 满意：指导的某人取得成功时你的感觉。这是为了种族持续发展而存在的一种明确的回馈机制。
-- 打扮行为：一种隐私信号，通常表明一种相对的社会地位。
-- 回报他人：这是人类社会中相当中一个相当重要的社会信号
 
 
 ### Characteristics of Game
@@ -172,3 +165,95 @@ e.g., Morden platformer
 
 
 THe evolution of moder video game can largely be explained in terms of topology. In fact, when we design games, we often start with a previous game and change just one element in it.
+
+
+## Chapter 5 What Games Aren't
+### Game and Storytelling
+
+大部分游戏都采用虚构背景进行包装，但游戏的目的是训练玩家跨越这些虚构想象，传授潜藏的模式。游戏的外衣与其核心本质很大程度上并不相关，理解游戏时必须学会这一点。
+
+游戏的核心内容通常并不是其故事。
+- 游戏更接近体验式的教学，故事则让人产生共鸣；
+- 游戏擅长objectification使人以客体化形式出现（自注：即作为游戏中的object(对象)），故事擅长将人吸引到其中，产生同理心；
+- 游戏倾向于量子化、简化和分类，故事倾向于模糊、深化和表现微妙的差别；
+- 游戏是外部的，关于人的行为，故事则是内部的，关于情感和想法；
+- 游戏是player narratives的generator（自注：指人们通过游戏的体验作为素材创造故事？），故事provide narrative。
+
+Story, setting, and backplot只是an attempt to give a "side dish" while it completes its challenges. 有时只是希望它能弥补原本平淡无奇的游戏。
+
+（自注：在有些学者眼里把游戏当成interactive narration（or Interactive storytelling， defined by Chris Crawford），其实我是更赞同的。因为哪怕是三消，也会通过颜色，形状以及不同元素调动情感，向你讲述。ref：故事的要素https://www.actualidadliteratura.com/zh-CN/%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%85%E4%BA%8B/#Elementos_que_definen_un_relato）
+
+### Enjoyment和fun分类
+
+- Marc LeBlanc "8 types of fun"
+    - sense-pleasure
+    - make-believe
+    - drama
+    - obstacle
+    - social framework
+    - discovery
+    - self-discovery
+    - expression
+    - surrender
+
+- Paul Ekman "dozens"
+
+- Nicole Lazzaro 
+    - hard fun
+    - easy fun
+    - altered states
+    - the people factor
+
+- Raph Koster (the author) "breakdown like Lazzaro's"
+    - Fun is the act of mastering problems (自注：learning by / to mastering problems)
+    · 快乐，掌握了一个问题时发自内心的表现(本书中提到的“快乐”全部属于此类)；
+    - Aesthetic appreciation ***not always fun*** but ***enjoyable***
+    · 审美欣赏，使人感到享受，与快乐的区别在于其为识别模式而非学习模式；
+    - Visceral reactions 
+    · 内心的自主反应，在本质上是生理性的，与对问题的肢体掌握有关，可以带来满足感，但自我并没有处于心理挑战的环境；
+    - Social status signals
+    · 不同类型的社会地位更替，本质上源于自我形象和社会声望，其中产生的积极情感都是在社会阶梯中战胜他人的信号，但并不一定是快乐。
+
+对上文解释：
+"Learning patterns is not the only thing that is entertaining. Humans enjoy Primate dominance ganmes, e.g.. You could argue that jockeying for status (自注：争夺地位) is also a challenge, ofc." （自注：除了learning，其他都是enjoyment，learning是fun的本质，且是长时的，其他则是短时的
+
+"Aesthetic appreciation is enjoyment, not fun.It is recognizing patterns, not learning new ones. Why is beatiful landscape a Delight? Beaty is found in the tension between our expectation and the reality, and only found in settings of extreme order."
+
+"Physical challenges alone aren't fun. The feeling of trumph when you break a personal record is. "
+
+所有的社交行为也是令人愉悦的。人人参与的社会地位连续更替是一种认知训练，因此从本质上说也是一种游戏。环绕交往行为周围的是一种积极的感情，是一种在社会阶梯中奖某人踢下去或者自己爬上来的信号，其中最著名的是：
+
+- 幸灾乐祸：当竞争对手失败时，你的一种沾沾自喜的感情，这种本质就是前面所说的将某人踢下去。
+- 骄傲：当完成一个重要任务时对胜利感的宣泄（例如挥动拳头），这是向他人表明自己有价值的信号。
+- 满意：指导的某人取得成功时你的感觉。这是为了种族持续发展而存在的一种明确的回馈机制。
+- 打扮行为：一种隐私信号，通常表明一种相对的社会地位。
+- 回报他人：这是人类社会中相当中一个相当重要的社会信号
+
+
+
+"Feedback mechanisms the brain gives us for successfully exercising survival tactics. Our breains rewarding us for haveing learned well."
+
+### fun定义
+***The feedback the brain gives us when we are absorbing patterns for learning purposes***
+
+Fun is contextual. " "I was just doing it for fun." The implication is that we are shrugging off the loss of social status inherent in a loss. Since it was merely a form of practice, perhaps we didn't put forth our best effort." 学校不fun是因为那不是练习而是真实发生的
+
+### 快乐是什么感觉
+
+可以参考Csikszentmihalyi提出的“畅感”(心流)的概念。这是一直对某个任务高度集中时的状态。***真正的快乐来源于当你具备绝对的控制力时，恰好有一个符合你能力水平的挑战摆到了你的面前。*** 拉扎罗将其称为“强烈的快乐”，而且，这是一种有可能将挫败感和成就感混杂在一起的状态。喜悦是无法持久的，就像在楼梯间偶遇美人的微笑一样，是转瞬即逝的。它不可能有别的方式——应为认知不是一个可延伸的过程。离那些曾经引发你喜悦的事物，在回来之后就可以重新获得喜悦，再度获得那种认知。
+
+但快乐并不等同于心流。心流的实例大部分与练习掌控有关，而非学习。快乐主要与训练和学习相关，而非与练习掌控相关(自注：即单纯为了学习模式而训练，而并非为了社会地位和自我形象等)。因此，快乐与环境及从事活动的理由有很大关系。掌握了快乐的定义，也就明确了游戏并不与上述另外几种良好的情感相关。
+
+“底部进食”行为 – 理智逻辑的玩家会有意接受更弱的对手。
+
+奖励是游戏是否成功的关键组成部分，如果没有优势的去做一件事，大脑会立即将它丢弃。
+
+### Fun isn't the only reason to play a game with a system
+
+- Practice
+- Meditation
+- Storytelling
+- Comfort
+
+(自注：fun是本质原因，其他是附属品)
+
