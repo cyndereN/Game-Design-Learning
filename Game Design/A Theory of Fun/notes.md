@@ -130,7 +130,7 @@ The more rigidly constructed your game, the more limited it will be.
 
 与文学相比，游戏能为更丰富复杂的情况构建模型(例，《权谋》(Diplomacy))，但其核心理念仍是教会人们生存的技能，文学能解决更为宽泛的课题。但游戏系统更复杂，它包括文学，音乐。
 
-自注：即，只要有合适的文学作品，一个人从中获取快乐的门槛要比参与游戏更低，因为阅读可以不以学习和掌握生存技能为目的。这种论调是反直觉的，但有一定道理。
+自注：即，只要有合适的文学作品，一个人从中获取快乐的门槛要比参与游戏更低，因为阅读有书打开就行，游戏需要设备，载入，玩一玩看看喜欢不喜欢...所以阅读能使人更快进入心流？这种论调是反直觉的，但有一定道理。
 
 自注：游戏是否为生活必需品？最早有记录的电子游戏诞生于1952年，为井字棋游戏（Tic-Tac-Toe），运行于真空管计算机上。 电子游戏在1970年代开始以一种商业娱乐媒体被引入，成为1970年代末日本、美国和欧洲一个重要娱乐工业的基础。
 
@@ -181,7 +181,9 @@ THe evolution of moder video game can largely be explained in terms of topology.
 
 Story, setting, and backplot只是an attempt to give a "side dish" while it completes its challenges. 有时只是希望它能弥补原本平淡无奇的游戏。
 
-（自注：在有些学者眼里把游戏当成interactive narration（or Interactive storytelling， defined by Chris Crawford），其实我是更赞同的。因为哪怕是三消，也会通过颜色，形状以及不同元素调动情感，向你讲述。ref：故事的要素https://www.actualidadliteratura.com/zh-CN/%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%85%E4%BA%8B/#Elementos_que_definen_un_relato）
+（自注：在有些学者眼里把游戏当成interactive narration（or Interactive storytelling， defined by Chris Crawford），其实我是更赞同的。因为哪怕是三消，也会通过颜色，形状以及不同元素调动情感，向你讲述。这点可能要看作者是否主观在叙事，不然从读者的角度，一切皆叙事。ref：故事的要素https://www.actualidadliteratura.com/zh-CN/%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%85%E4%BA%8B/#Elementos_que_definen_un_relato）
+
+（自注：补充：游戏是一种交互的规则————玩家给出操作，规则给出反馈）
 
 ### Enjoyment和fun分类
 
