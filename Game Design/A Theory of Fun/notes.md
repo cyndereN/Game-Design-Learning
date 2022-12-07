@@ -183,7 +183,7 @@ Story, setting, and backplot只是an attempt to give a "side dish" while it comp
 
 （自注：在有些学者眼里把游戏当成interactive narration（or Interactive storytelling， defined by Chris Crawford），其实我是更赞同的。因为哪怕是三消，也会通过颜色，形状以及不同元素调动情感，向你讲述。这点可能要看作者是否主观在叙事，不然从读者的角度，一切皆叙事。ref：故事的要素https://www.actualidadliteratura.com/zh-CN/%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%85%E4%BA%8B/#Elementos_que_definen_un_relato）
 
-（自注：补充：游戏是一种交互的规则————玩家给出操作，规则给出反馈）
+（自注：补充：***游戏是一种交互的规则————玩家给出操作，规则给出反馈***）
 
 ### Enjoyment和fun分类
 
@@ -248,7 +248,7 @@ Fun is contextual. " "I was just doing it for fun." The implication is that we a
 
 “底部进食”行为 – 理智逻辑的玩家会有意接受更弱的对手。
 
-奖励是游戏是否成功的关键组成部分，如果没有优势的去做一件事，大脑会立即将它丢弃。
+***奖励是游戏是否成功的关键组成部分，如果没有优势的去做一件事，大脑会立即将它丢弃。***
 
 ### Fun isn't the only reason to play a game with a system
 
@@ -259,3 +259,6 @@ Fun is contextual. " "I was just doing it for fun." The implication is that we a
 
 (自注：fun是本质原因，其他是附属品)
 
+## Chapter 6 Different Fun for Different Folks
+
+不同的人群根据其学习风格和思维能力不同天生易受不同类型游戏的吸引。且由于游戏是形式化抽象系统，自然地更容易吸引青年男性。另一方面，努力尝试自己不喜欢的游戏，能帮助人培养更多技能，发掘自己的潜力，打破先天的能力不均衡。
