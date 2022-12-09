@@ -372,3 +372,20 @@ The holy grail of game system design is to make a game where the challenges are 
 ![](./entertainment_vs_art.jpg)
 
 "We often discuss the desire for games to be art - for them to be puzzles with more than one right answer, puzzles that lend themselves to interpretation."
+
+## Chapter 10 The Ethics of Entertainment
+
+在游戏过程中，尽管快乐的情绪是游戏的精髓，但之前提到的审美愉悦、内心自主反应、社会地位更替等享受的情感对于游戏的体验仍然重要。人不可能在绝对抽象的水平上与游戏进行互动，因此游戏设计并不仅仅关乎其结构。游戏的核心（即“首要元素”）与外在修饰及虚构主题的搭配不当会对玩家体验造成严重影响，甚至会由于游戏的外观缺失社会价值而使游戏整体遭到排斥。这意味着，游戏设计者应主动担负起社会责任，才能为游戏争取到被认真对待的权利。
+
+## Chapter 11 Where Games Should Go
+
+People are plants and games are trellis 
+
+对游戏而言，描绘出的人类状态与只存在于游戏中的人类状态是不同的。目前，游戏还远远未能发挥拓展人们对自身认识的作用，而主要是一个竞技场，展示了人类最粗鲁、原始的行为方式。
+
+人类在从外界环境和天性中学习的同时，也在逃离这些束缚试图自由生长，而伟大的艺术作品往往具有特殊的意图，能使人向多种可能的方向成长。但目前，游戏能培养玩家的只有“有趣”和“厌倦”两个方向。游戏若要真正成为被广泛认可的艺术形式，其规则需要源于我们对人类自身的理解，其形式结构必须要对人类的状态有所启示，使人可以通过考察与游戏的关系来更好地了解自身。
+
+游戏可以用来模拟比权力更高尚的概念，如义务、爱、荣誉、责任。游戏塑造人的方式并非是机械呆板的，它是一种态度、一种世界观，从根本上说，它是有意向的。
+
+## Chapter 12 Taking Their Rightful Place
+
