@@ -49,3 +49,42 @@ Simplicity = Sanity
 ## Law 3 TIME
 
 JIT、节省选择的时间， 如何使等待缩短 <--> 如何让等待更容易忍受
+
+## Law 4 LEARN
+
+隐喻 -> 相关 -> 转化 -> 惊喜
+
+避免制造挫折感
+
+BRAIN
+    BASICS are the beginning
+    REPEAT yourself often
+    AVOID creating desperation
+    INSPIRE with examples
+    NEVER forget to repeat yourself
+
+## Law 5 DIFFERENCES
+
+简单和复杂相辅相成 韵律与衬托
+
+## Law 6 CONTEXT
+留白越多，展现出来的信息就越少，但与此同时，更有限的信息会得到更多关注。
+
+## Law 7 EMOTION
+人并不总用理性思考，需要感情，需要直觉。哪怕因此会走向复杂。又涉及到反思水平设计。
+
+## Law 8 TRUST
+我们相信简单 需要信任，无论对人还是对技术。
+
+## Law 9 FAILURE
+有些事物不可能简单
+
+## Law 10 THE ONE
+
+简单是减少明显的，增加有意义的。
+
+远离 away 只要挪得远远的，多的就会显得少。
+
+开放 open 开放会简化复杂
+
+能源 power 少用，会得到更多
