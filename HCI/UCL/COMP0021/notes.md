@@ -1,7 +1,6 @@
-# Interaction Design
+# W1 Intro to ID
 
-## W1 Intro to ID
-
+## 1.1 ID
 ### 1.1.1 What is ID?
 
 Preece, Rogers & Sharp (2019) "Designing interactive products to support the way people communicate and interact in their everyday and working lives."
@@ -63,7 +62,7 @@ relate more to the relationship between user and product, rather than product it
   - Annoying
   - ...
   
-  ### 1.1.9 Design Principles
+### 1.1.9 Design Principles
   
 - Visibility
 - Feedback
@@ -106,11 +105,76 @@ Stakeholders: People or organizations that will be affected by the system and ha
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-### 1.2.4
+# W2 Discovering Requirements
 
+## 2.1 Descovering.. / Establishing.. / Requirement Engieering
+## 2.1.1 Aim
 
+- Knowledge of users
+- Set of requirements
+
+## 2.1.2 Stages
+
+- Data gathering
+- Analysis
+- Interpretation
+- Presentation
+
+## 2.1.3 Gathering 
+
+- Pre-existing
+- Requirements gathering
+- Requirements capture
+- Need establishing
+
+## 2.1.4 Definition of Requirements
+
+A statement about an intended product that specifies what it is expected to do
+
+## 2.1.5 Types
+
+- Basic
+  - Functional
+  - Non-functional
+
+- More
+  - Functional
+  - Data
+  - Environmental
+    - Physical
+    - Social
+    - Organizational
+    - Technical
+
+## 2.2 Personas
   
-  
-  
+### 2.2.1 Cultural Probes
+
+### 2.2.2 Contexual Enquiry
+
+- Ethnograhic study
+- User is expert, designer is apprentice
+- Interview, but at user's workplace, 2-3 hours long
+
+### 2.2.3 Scenario 
+Informal narrative description
+
+### 2.2.4 Principles of Contexual Enquiry
+
+- Context
+- Partnership
+- Interpretation
+- Focus
+
+## 2.3 Skinput
+
+A product design involving using the skin as finger input surface
+
+### 2.3.1 Skinput Usage Scenario
+
+- Scrolling music tracks
+- Controls television channel and volume
+- Gets recipe 
+- Telephones a friend
   
   
