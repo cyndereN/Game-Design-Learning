@@ -155,6 +155,9 @@ A statement about an intended product that specifies what it is expected to do
 - Ethnograhic study
 - User is expert, designer is apprentice
 - Interview, but at user's workplace, 2-3 hours long
+  - Structured
+  - Unstructured
+  - Semi-structured
 
 ### 2.2.3 Scenario 
 Informal narrative description
@@ -178,3 +181,45 @@ A product design involving using the skin as finger input surface
 - Telephones a friend
   
   
+# W3 Designing Alternatives
+
+## 3.1 Sketching 
+
+Help with last 3 of the design process
+
+### 3.1.1 Reason
+
+Critical part
+- Idea generation (Ideation)
+  - like climbing a hill: Generate one, then iterate and develop it
+  - local hill climbing means that your design is always limited by the first idea
+- Design exploration
+- Engineering
+
+### 3.1.2 Design Funnel
+![](design_funnel.png)
+
+### 3.1.3 Tips
+- Simple
+- Icons
+- 3D not needed
+- Sketch fast, long strokes
+
+
+## 3.2 Storyboarding
+
+- Tell a story
+- storyboard
+- visual narration
+- scene by scene
+- comic
+
+### 3.2.1 Techniques for narrative storyboards
+
+- Sketching
+  - Sequece of frames
+  - emphasize actions and motions
+- Photos
+  - Sequence of snapshots
+  - Edit, annotation
+
