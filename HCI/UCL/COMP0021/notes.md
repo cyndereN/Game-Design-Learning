@@ -186,6 +186,9 @@ A product design involving using the skin as finger input surface
 ## 3.1 Sketching 
 
 Help with last 3 of the design process
+- Get the desing right
+- Get the right design
+  - Many alternatives
 
 ### 3.1.1 Reason
 
@@ -206,6 +209,7 @@ Critical part
 - Sketch fast, long strokes
 
 
+
 ## 3.2 Storyboarding
 
 - Tell a story
@@ -223,3 +227,63 @@ Critical part
   - Sequence of snapshots
   - Edit, annotation
 
+# W4 Prototyping
+
+## 4.1 What is a prototype
+
+Certain features in common with the final product
+
+One manifestation of a design that allows stakeholders to interact with it and to explore its suitability.
+
+## 4.2 Sketching v.s. Prototyping
+Sketches are about exploring ideas, prototyping is about testing ideas
+
+suggest -> describe
+explore -> refine
+question -> answer
+propose -> test
+provoke -> resolve
+tentative -> specific
+
+low fidelity <-> high fidelity
+
+## 4.3 Video Prototypes
+- Technology in use
+- Tell story
+- Cheap
+- Fast
+
+## 4.4 The wizard of Oz
+Human operator simulates the behaviour of the system
+
+## 4.5 Sketch-a-move
+
+## 4.6 Wireframe
+Blueprints of the design of the computer interface
+outline boxes where photographs and textboxes will be placed
+
+## 4.7 Mockup
+- low fidelity
+- paper prototypes
+- wireframes
+
+## 4.8 Software
+
+- ppt
+- Balsamiq
+- Interface builders
+  - vs
+  - eclipse
+- Physical
+
+## 4.9 Interactivity
+
+- Non-interactive
+  - Paper sketch
+  - Physical mockup
+  - Wireframe
+
+- Interactive
+  - Paper prototype
+  - Physical prototype
+  - Interactive wireframe
