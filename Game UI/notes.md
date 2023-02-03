@@ -15,6 +15,37 @@ GUI是Graphical User Interface的简称，简单来说，就是游戏中菜单�
 
 “ 游戏就是 UI。游戏本身就是一种互动，它是一个交互的过程。”
 
+## UI and UX
+
+UI is a subset of UX. 
+UX is how people feel about a product and their pleaseure and satisfaction when using it, looking at it, holding it, and opening or closing it. The goals may be like Satisfying, Supporting... It is modeled based on user behavior, focusing underlying logic; Dynamic, change between flows.
+UI is more of feedback on visual aspect, upper logic; Static.
+
+UX relate more to the relationship between user and product, rather than product it self. More subjective
+
+## Unity UI
+
+- UI Toolkit
+Newest, based on standard web technologies. UXML + USS + C#
+
+- uGUI
+GameObject-based UI. Supports advanced rendering and text features
+
+- IMGUI
+Code-driven UI Toolkit that uses the OnGUI function, and scripts that implement it, to draw and manage. Used for extension, plugins. Not recommended for building runtime UI.
+
+## 事件编程
+
+https://www.youtube.com/watch?v=OuZrhykVytg&ab_channel=CodeMonkey
+
+## Unreal UI
+
+- Blueprint（ User Inteface-Blueprint） 也就是常说的UMG (Unreal Motion Graphics)，是我们常用的UI工程文件 
+- Font（字体资源拖入Content Browser自动生成）字体文件
+- Texture (PNG资源拖进来可以自动生成) 图片资源文件
+- Material 材质文件，可用于UI材质或者mesh材质
+- Actor（Blueprint Class-Actor）可以摆放到场景中的文件类型，用于制作3DUI
+
 ## Good design is invisible
 
 Only when UI is bad people can notice them
@@ -60,11 +91,14 @@ Whether the player cannot find the target interface, or the way information is p
 
 small-scale game: one canvas, show and hide different UI
 
-## UI and UX
 
-UI is a subset of UX. 
-UX is how people feel about a product and their pleaseure and satisfaction when using it, looking at it, holding it, and opening or closing it. The goals may be like Satisfying, Supporting... It is modeled based on user behavior, focusing underlying logic; Dynamic, change between flows.
-UI is more of feedback on visual aspect, upper logic; Static.
+
+## UI testing
+- Manual Testing
+- Record-and-Playback Testing
+- Model-Based Testing
+
+Poco uses a method of testing that is similar to both record-and-playback testing (where the testing tool records the activity of the user and then imitates it) and model-based testing (where the run time behaviour of a project is checked against predictions made by a model of the project).
 
 ## Games with Good UI
 
@@ -97,26 +131,5 @@ Avatars walk on button to select.
 UI 服务于游戏的体验目标，辅助玩法设计达成特定效果。如果一味追求高效率和易用性，而忽略了“玩” 这个过程，这将使 UI 设计本末倒置。
 
 
-## Unity UI
-
-- UI Toolkit
-Newest, based on standard web technologies. UXML + USS + C#
-
-- uGUI
-GameObject-based UI. Supports advanced rendering and text features
-
-- IMGUI
-Code-driven UI Toolkit that uses the OnGUI function, and scripts that implement it, to draw and manage. Used for extension, plugins. Not recommended for building runtime UI.
 
 
-## Unreal UI
-
-- Blueprint（ User Inteface-Blueprint） 也就是常说的UMG (Unreal Motion Graphics)，是我们常用的UI工程文件 
-- Font（字体资源拖入Content Browser自动生成）字体文件
-- Texture (PNG资源拖进来可以自动生成) 图片资源文件
-- Material 材质文件，可用于UI材质或者mesh材质
-- Actor（Blueprint Class-Actor）可以摆放到场景中的文件类型，用于制作3DUI
-
-## 事件编程
-
-https://www.youtube.com/watch?v=OuZrhykVytg&ab_channel=CodeMonkey

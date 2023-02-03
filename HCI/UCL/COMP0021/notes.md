@@ -23,7 +23,7 @@ Usable (Usability):
 HCI is subset of ID
 
 ### 1.1.5 User experience (UX)
-Preece, Rogers & Sharp (2019) "How people feel about a product and their pleaseure and satisfaction when using it, looking at it, holding it, and opening or closing it"
+Preece, Rogers & Sharp (2019) "How people feel about a product and their pleasure and satisfaction when using it, looking at it, holding it, and opening or closing it"
 
 4 threds:
 - Sensual
@@ -37,6 +37,13 @@ Preece, Rogers & Sharp (2019) "How people feel about a product and their pleaseu
 - Designing Alternatives(sketches)
 - Prototyping
 - Evaluating
+
+ **3 Principles of User-Centered Design**
+
+- Early focus on users
+- Empirical measurement 以经验（或实验）为依据
+- Iterative design
+
 
 ### 1.1.7 Usability Goals
 
@@ -61,6 +68,12 @@ relate more to the relationship between user and product, rather than product it
   - Gimmicky
   - Annoying
   - ...
+
+**Usable System**
+
+- Meet users' goal
+- Work in context of use
+- Gather 3 kinds of data(who, what, how)
   
 ### 1.1.9 Design Principles
   
@@ -107,6 +120,12 @@ Stakeholders: People or organizations that will be affected by the system and ha
 
 # W2 Discovering Requirements
 
+- Who is target user?
+- What are defining characteristics?
+- How can we represent?
+
+***Persona***: Fictitious character, Type of user, based on user data  
+***Scenario***: Context of user, example of achieving a user goal, simple, natural, personal 
 ## 2.1 Descovering.. / Establishing.. / Requirement Engieering
 ## 2.1.1 Aim
 
@@ -120,6 +139,13 @@ Stakeholders: People or organizations that will be affected by the system and ha
 - Interpretation
 - Presentation
 
+**5 Methods of discovering**
+
+- Interview
+- Observation (laboratory, in the wild)
+- Reviews
+- Questionnaire
+- Focus group(several people)
 ## 2.1.3 Gathering 
 
 - Pre-existing
@@ -228,6 +254,9 @@ Critical part
   - Edit, annotation
 
 # W4 Prototyping
+- Representation emphasizing some aspects and de-emphasizing others
+- Simulation
+- "One manifestation of a design that allows stakeholders to interact with it and explore its suitability."
 
 ## 4.1 What is a prototype
 
