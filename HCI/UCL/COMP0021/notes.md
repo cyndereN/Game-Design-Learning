@@ -316,3 +316,63 @@ outline boxes where photographs and textboxes will be placed
   - Paper prototype
   - Physical prototype
   - Interactive wireframe
+
+# W5 Evaluation
+
+"10 usability heuristics" (Nielsen's heuristics for usability)  
+https://www.nngroup.com/articles/ten-usability-heuristics/
+1. Visibility of system status  
+2. Match between system and real world  
+3. User control and freedom
+4. Consistency and standards
+5. Error prevention
+6. Recognition rather than recall
+7. Flexibility and efficiency of use
+8. Aesthetic and minimalist design
+9. Help user recognize, diagnose and recover from errors
+10. Help and documentation
+
+## 5.1 Types
+
+- Analytic Evaluation
+  - Heuristic Evaluation (Heuristic: "rule of thumb", aid to discover)
+  - Inspection method
+  - Does not require users, but usability experts
+  - Expert Evaluation
+
+- Empirical Evaluation
+  - Usability test (lab study/use test)
+
+## 5.2 Applying Heuristic Evaluation
+
+- Use 10 heuristics to spot problems
+- Identify source
+- Identify solution
+- Prioritize solutions
+
+## 5.3 How to conduct HE
+
+1. Train some experts (3-5 evaluators)
+2. Get individual experts to use heuristics to find problems
+3. Permit experts to generate new heuristics
+4. Get individual experts to use heuristics to prioritize problems on scale of 0 to 4
+5. Collate reports into a  single evaluation
+
+## 5.4 Rating Scale
+![](rating_scale.png)
+
+## 5.5 Pros and Cons
+
+- Advantages
+  - Fewer ethical problems (no users)
+  - Fewer practical problems (no users)
+  - Fast
+  - Cheap(discount usability)
+
+- Disadvantages
+  - Important problems may be missed
+  - Trivial problems oftern identified
+  - Expert biased
+  - Difficult to find/train experts
+  - Not good for collaborative apps
+  - Not good for physical devices
