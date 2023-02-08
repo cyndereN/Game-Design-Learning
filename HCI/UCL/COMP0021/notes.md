@@ -352,6 +352,12 @@ https://www.nngroup.com/articles/ten-usability-heuristics/
 
 ## 5.3 How to conduct HE
 
+- Train evaluators
+- Identify problems
+- Rate priority
+- Collate
+
+To be more precise:
 1. Train some experts (3-5 evaluators)
 2. Get individual experts to use heuristics to find problems
 3. Permit experts to generate new heuristics
