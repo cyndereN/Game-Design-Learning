@@ -382,3 +382,144 @@ To be more precise:
   - Difficult to find/train experts
   - Not good for collaborative apps
   - Not good for physical devices
+
+
+# W6 Laboratory Studies
+
+## 6.1 Lab Studies
+
+### 6.1.1 Types of Evaluation
+- Controlled settings
+  - with users (Empirical Evaluation)
+  - without users (Analytic Evaluation)
+
+### 6.1.2 Analytic Approches
+
+- Heuristic Evaluation
+- Cognitive Walkthrough
+
+### 6.1.3 Empirical Approches
+
+- Usability Test
+- Experiments
+- Think aloud (Helps user test provide more infomation)
+
+
+## 6.2 Cognitive Walkthrough
+
+- Simulating user's prbolem solving process
+- Focus on designs for the ease of learning
+
+## 6.3 Usability Testing
+
+### 6.3.1 Observation
+
+- Data gathering
+- Any stage in development
+- Early
+- Late
+- Evaluation
+
+### 6.3.2 Types of Observation
+- Direct
+  - Investigate the users
+- Indirect
+  - Records of activity
+- Field studies
+- Lab studies (controlled)
+
+### 6.3.3 Controlled Environment
+
+- Usability Labs
+- Portable Labs
+
+### 6.3.4 Think aloud
+
+- User is asked to verbalize their thoughts
+- Helps user test provide more infomation
+- Helps the designer understand the user's thought process
+
+### 6.3.5 Think aloud problem
+
+- User are not experts
+- Silence
+
+Respond to Silence
+- What are you looking for?
+- What do you think you need to do?
+- How do you think you'll do it?
+- Can you see what you expect?
+- What can you not find?
+
+
+### 6.3.6 Think aloud tips
+
+- Take notes on everything
+  - What they did, what they did not do, what questions
+- Let user make errors
+
+### 6.3.7 Think aloud after
+- Video interaction
+- Play back
+- Think aloud in review
+
+### 6.3.8 Why, What, Where, When
+
+### 6.3.9 Why evaluate?
+- Usability
+- User Experience
+- Design sells
+- Real Problems
+
+### 6.3.10 Controlled settings
+- Usability Tests
+  - Product
+  - Recruit potential users
+  - Ask them to use
+  - Ask them to think aloud
+  - Record everything
+  - Analyze
+  - *Active testing
+- Experiments
+
+### 6.3.11 Ethical Considerations
+- Protecting participants
+- Informed consent
+
+
+## 6.4 Experiments
+
+
+### 6.4.1 Experiments
+
+- Hypothesis Testing
+- Stastical Analysis
+
+### 6.4.2 Controlled Experiment
+
+
+### 6.4.3 Variables
+- Independent Variable
+- Dependent Variable
+
+### 6.4.4 Hypothesis
+
+### 6.4.5 Null Hypothesis
+
+### 6.4.6 Design
+
+- Between-subjects
+- Within-subjects
+
+### 6.4.7 Statistics
+Interface 1/2 -> Chance calculator -> p-value
+p<0.05 -> design makes a difference
+
+### 6.4.8 Reliability
+
+- Reliability
+  - Same result will be replicated if repeat the evaluation
+- Validity
+  - Method measures what it intends to measure
+
+
