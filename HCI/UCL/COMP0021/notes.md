@@ -522,4 +522,163 @@ p<0.05 -> design makes a difference
 - Validity
   - Method measures what it intends to measure
 
+# W7 Field Studies
 
+### 7.1 What is a field study?
+
+- Lab studies(controlled)
+- Field studies / In situ studies (in the original place) / In the wild studies
+  - Natural settings
+  - Messy
+  - Activities overlap
+  - Interrupted by events and people
+
+### 7.2 Advantages of field studies
+
+- Ubiquitous technologies
+- Real world success
+
+### 7.3 Disadvantages of field studies
+
+- Little or no control
+- Difficult to test hypotheses
+- Interruption
+
+
+### 7.4 Three types
+
+- Current behavior
+- Proof of concept
+- Experience of Prototype
+
+### 7.5 Current behavior
+
+- WHat are people doing?
+- Shared technology example (Brush & Inkpen (names of researchers))
+
+### 7.6 Proof of concept
+
+- Does it work in the real world?
+- Context-aware power management
+
+### 7.7 Experience of Prototype
+
+- Prototype
+- Wizard of Oz
+
+### 7.8 Design of Field Studies
+
+- Hidden variables
+- Within subjects design
+- Qualitative data
+
+- *Uses mixed methods
+
+### 7.9 Data Gathering
+- Logging
+- Surveys
+- Experience sampling
+- Diaries
+- Interviews
+- Unstructured observation
+
+#### 7.9.1 Logging
+- Main quantitative method
+- Prototype sends data
+
+#### 7.9,2 Surveys
+- Presurvey
+- Postcondition
+- Postsurvey
+
+- Open-ended
+- Multiple-choice
+- Likert scale
+
+#### 7.9.3 Good & bad surveys
+
+7 tips
+
+- Question is interpreted in a consistent manner
+- Question people are willing to answer
+- Question is answering truthfully
+- Question with a known answer
+- Avoid double-barreled questions
+- Avoid biased terms wording
+- Pretest your questions
+
+#### 7.9.4 Diaries
+- Diary entries
+- User initiated
+
+#### 7.9.5 Interviews
+
+- Semi-structured
+- Audio or video recording
+- Photos
+
+#### 7.9.6 Unstructured observation
+- Little interaction with participants
+
+### 7.10 Data Analysis
+
+- Quantitative
+- Qualitative
+
+### 7.11 Statistics
+
+- Descriptive statistics
+- Inferential statistics
+
+### 7.12 Qualitative Analysis
+- Coding
+- Pre-existing themes
+- Testing theory (deduction)
+
+- No pre-existing themes
+- Deriving themes (induction)
+- Theory building
+
+### 7.13 Successful study
+
+- Study design
+- Technology
+- Running the study
+- Data collection and analysis
+
+#### 7.13.1 Study design
+
+4 tips
+
+1. Clear research goal
+2. Study design document
+3. Scripts for visits
+4. Pilot
+
+#### 7.13.2 Technology
+
+5 tips
+
+1. Robust enough
+2. Other evaluation methods
+3. Existing technology
+4. Reassuring feedback
+5. Negative results
+
+
+#### 7.13.3 Running the study
+
+4 tips
+
+1. Research team
+2. Comfortable participants
+3. Safety
+4. Flexibility
+
+#### 7.13.4 Data collection and analysis
+
+3 tips
+
+1. Be objective
+2. Dont argue. "The participant is always right"
+3. Inappropriate claims
