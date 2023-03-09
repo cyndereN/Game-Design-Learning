@@ -524,7 +524,7 @@ p<0.05 -> design makes a difference
 
 # W7 Field Studies
 
-### 7.1 What is a field study?
+## 7.1 What is a field study?
 
 - Lab studies(controlled)
 - Field studies / In situ studies (in the original place) / In the wild studies
@@ -533,40 +533,40 @@ p<0.05 -> design makes a difference
   - Activities overlap
   - Interrupted by events and people
 
-### 7.2 Advantages of field studies
+## 7.2 Advantages of field studies
 
 - Ubiquitous technologies
 - Real world success
 
-### 7.3 Disadvantages of field studies
+## 7.3 Disadvantages of field studies
 
 - Little or no control
 - Difficult to test hypotheses
 - Interruption
 
 
-### 7.4 Three types
+## 7.4 Three types
 
 - Current behavior
 - Proof of concept
 - Experience of Prototype
 
-### 7.5 Current behavior
+## 7.5 Current behavior
 
 - WHat are people doing?
 - Shared technology example (Brush & Inkpen (names of researchers))
 
-### 7.6 Proof of concept
+## 7.6 Proof of concept
 
 - Does it work in the real world?
 - Context-aware power management
 
-### 7.7 Experience of Prototype
+## 7.7 Experience of Prototype
 
 - Prototype
 - Wizard of Oz
 
-### 7.8 Design of Field Studies
+## 7.8 Design of Field Studies
 
 - Hidden variables
 - Within subjects design
@@ -574,7 +574,7 @@ p<0.05 -> design makes a difference
 
 - *Uses mixed methods
 
-### 7.9 Data Gathering
+## 7.9 Data Gathering
 - Logging
 - Surveys
 - Experience sampling
@@ -582,11 +582,11 @@ p<0.05 -> design makes a difference
 - Interviews
 - Unstructured observation
 
-#### 7.9.1 Logging
+### 7.9.1 Logging
 - Main quantitative method
 - Prototype sends data
 
-#### 7.9,2 Surveys
+### 7.9,2 Surveys
 - Presurvey
 - Postcondition
 - Postsurvey
@@ -595,7 +595,7 @@ p<0.05 -> design makes a difference
 - Multiple-choice
 - Likert scale
 
-#### 7.9.3 Good & bad surveys
+### 7.9.3 Good & bad surveys
 
 7 tips
 
@@ -607,30 +607,30 @@ p<0.05 -> design makes a difference
 - Avoid biased terms wording
 - Pretest your questions
 
-#### 7.9.4 Diaries
+### 7.9.4 Diaries
 - Diary entries
 - User initiated
 
-#### 7.9.5 Interviews
+### 7.9.5 Interviews
 
 - Semi-structured
 - Audio or video recording
 - Photos
 
-#### 7.9.6 Unstructured observation
+### 7.9.6 Unstructured observation
 - Little interaction with participants
 
-### 7.10 Data Analysis
+## 7.10 Data Analysis
 
 - Quantitative
 - Qualitative
 
-### 7.11 Statistics
+## 7.11 Statistics
 
 - Descriptive statistics
 - Inferential statistics
 
-### 7.12 Qualitative Analysis
+## 7.12 Qualitative Analysis
 - Coding
 - Pre-existing themes
 - Testing theory (deduction)
@@ -639,14 +639,14 @@ p<0.05 -> design makes a difference
 - Deriving themes (induction)
 - Theory building
 
-### 7.13 Successful study
+## 7.13 Successful study
 
 - Study design
 - Technology
 - Running the study
 - Data collection and analysis
 
-#### 7.13.1 Study design
+### 7.13.1 Study design
 
 4 tips
 
@@ -655,7 +655,7 @@ p<0.05 -> design makes a difference
 3. Scripts for visits
 4. Pilot
 
-#### 7.13.2 Technology
+### 7.13.2 Technology
 
 5 tips
 
@@ -666,7 +666,7 @@ p<0.05 -> design makes a difference
 5. Negative results
 
 
-#### 7.13.3 Running the study
+### 7.13.3 Running the study
 
 4 tips
 
@@ -675,10 +675,111 @@ p<0.05 -> design makes a difference
 3. Safety
 4. Flexibility
 
-#### 7.13.4 Data collection and analysis
+### 7.13.4 Data collection and analysis
 
 3 tips
 
 1. Be objective
 2. Dont argue. "The participant is always right"
 3. Inappropriate claims
+
+
+# W8 Affective Interaction
+
+## 8.1 Affective Interaction
+
+### 8.1.1 Emotions and Storytelling
+
+### 8.1.2 Meaning of affect
+
+Affect: "Any experience of feeling or emotion"
+
+Affective Interaction: "HCI that involves emotion"
+"The process of communicating emotional infomation to and from the user to improve the user experience"
+
+The intersection of Affective computing and Interaction design
+
+### 8.1.3 3 Aspects
+
+- Respond to human emotions
+- Communicate emotions
+- AI
+
+
+## 8.2 Recognition
+
+### 8.2.1 Interaction
+
+sense -> recognize -> respond
+
+### 8.2.2 Detecting Emotions
+
+- Self-report
+- Speech recognition
+- Gesture recognition
+- Facial recognition
+- Physiology
+  - Temperature
+  - Skin conductivity
+  - Heart rate
+  - Neural activity
+  - blood pressure
+
+### 8.2.3 Affective States
+
+- Frustration
+- Confusion
+- Interest
+- Fear
+- Distress
+- Anger
+- Boredom
+- Joy
+
+### 8.2.4 Affective Design
+
+- Detect user's emotions
+- Associate with situation
+- Feedback to Designer
+
+## 8.3 Self reporting
+
+## 8.4 Physiological Sensors
+
+- Electromyamogram(EMG) (signal from muscle)
+- Blood Volume Pulse(BVP)  
+- Galvanic Skin Response(GSR)  (Intensity)
+- Respiration  (around chest)
+
+
+## 8.4 Facial
+
+- Anger
+- Fear
+- Disgust
+- Surprise
+- Happiness
+- Sadness
+
+
+## 8.5 Speech
+
+- What is said
+- Who is speaking
+- How it is said
+  - Tone
+  - Speed
+
+Problems?
+
+- Context
+- Valence
+
+
+## 8.6 Applications
+- Education
+- Retail
+- Medical
+- Autism
+- Robotics
+- Driving
