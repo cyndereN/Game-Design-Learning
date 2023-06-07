@@ -171,3 +171,40 @@ whiteboarding
 自动化测试
 
 
+
+# 第十一章 数学与平衡度
+
+Google Sheet / Excel
+
+# 第十二章 Guiding The Player
+
+- 直接
+  - Instructions
+  - Call to Action
+  - Map or Guidance System
+  - Pop-Ups
+- 间接
+  - Constraints
+  - Goals
+  - Physical Interface
+  - Visual Design
+  - Audio Design
+  - Player Avatar
+  - Non-Player Characters
+
+# 第十三章 Puzzle Design
+
+A puzzle is fun, and it has a right answer.
+
+Kim's Eight Steps of Digital Puzzle Design:
+- Inspiration
+- Simplification
+- Construction Set (Build a tool that makes construction of puzzles quick and easy)
+- Define and Clarify Rules
+- Make some levels of puzzle
+- Testing
+- Put the levels in a meaningful Sequence
+- Presentation
+
+
+
