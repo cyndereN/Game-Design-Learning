@@ -1,0 +1,107 @@
+# Usability V.S. User Experience
+
+## 2 main points
+
+- User-centered
+- Iteration
+
+## 3 Principles of User-Centered Design
+
+- Early focus on users
+- Empirical measurement 以经验（或实验）为依据
+- Iterative design
+
+## 4 Stages of Design (Life Cycle)
+
+- Discover Requirements
+- Designing Alternatives(sketches)
+- Prototyping
+- Evaluating
+
+## 5 Methods of discovering
+
+- Interview
+- Observation (laboratory, in the wild)
+- Reviews
+- Questionnaire
+- Focus group(several people)
+
+## Usability (Objective)
+
+- Effectiveness: how good at doing what it supposed to do
+- Efficiency: how few steps needed
+- Safety: how good at avoiding errors
+- Utility: how appropriate are the functions user want to achieve
+- Learnability: how quickly user can figure out what to do
+- Memorability: how easy it sis to remember how to use
+
+## Usable System
+
+- Meet users' goal
+- Work in context of use
+- Gather 3 kinds of data(who, what, how)
+
+## Prototyping in HCI
+
+- Representation emphasizing some aspects and de-emphasizing others
+- Simulation
+- `One manifestation of a design that allows stakeholders to interact with it and explore its suitability.`
+
+# Personas V.S. Scenario
+
+## Process
+
+1. Figure out what you want to learn about customer (Goals? What are they worried about? Needs? Expectation?)  
+2. Talk to customer, for real  
+3. Draw on what you have. CRMdata, analytics, …  
+4. Create a draft  
+5. Transltate to professionally illustrated personas  
+
+## Discovering requirements
+
+- Who is target user?
+- What are defining characteristics?
+- How can we represent?
+
+***Persona***: Fictitious character, Type of user, based on user data  
+***Scenario***: Context of user, example of achieving a user goal, simple, natural, personal 
+
+# Design Principles
+
+- Visibility
+- Feedback
+- Affordance
+- Mapping
+- Consistency
+- Constraints
+
+
+# Evaluation
+
+- Analytic Evaluation
+    - Heuristic Evaluation (Heuristic: "rule of thumb", aid to discover)
+
+"10 usability heuristics" (Nielsen's heuristics for usability)  
+
+1. Visibility of system status  
+2. Match between system and real world  
+3. User control and freedom
+4. Consistency and standards
+5. Error prevention
+6. Recognition rather than recall
+7. Flexibility and efficiency of use
+8. Aesthetic and minimalist design
+9. Help user recognize, diagnose and recover from errors
+10. Help and documentation
+
+"How to carry out Heuristic Evaluation?"
+
+1. Train some experts
+2. Get individual experts to use heuristics to find problems
+3. Permit experts to generate new heuristics 
+4. Get individual experts to prioritise problems on scale of 0 to 4
+5. Collate reports to a single evaluation
+
+- Empirical Evaluation
+    - Usability test (lab study/use test)
+
