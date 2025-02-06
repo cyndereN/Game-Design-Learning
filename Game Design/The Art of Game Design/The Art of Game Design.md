@@ -14,24 +14,47 @@ very beginning to the very end, making decisions about how the game should be al
 along the way.
 
 ### What Skills Does a Game Designer Need?
+
 动画（Animation） - 让游戏中的角色更加鲜活，给予它们生命， 开启更广阔的创意设计视野。
+
 人类学（Anthropology） - 准确地找出用户群体，并且分析需求，满足其欲望。
+
 建筑学（Architecture） - 理解人与空间的关系，在游戏世界的构建过程中有一个好的立足点和新的方向。
+
 头脑风暴（Brainstorming） - 不断的想出新的创意。
-商业（Business） - 商业游戏的使命，越会用游戏赚钱，越有机会做出成就梦想的游戏。
+
+
+
+商业（Business） - 商业游戏的使命，越会用游戏赚钱，越有机会做出成就梦想的游戏。（also 数据分析）
+
 电影学（Cinematography） - 学会穿搭一种在情感上极具吸引力的体验，将游戏过程想象成一部沉浸式电影。
+
 交流（Communication） - 需要和各个领域的人交流沟通，解决问题，满足客户需求和让受众了解游戏的核心想法。
+
 创造性写作（Creative Writing） - 游戏世界像小说中的世界一样，需要这样的能力来构建游戏世界。
+
 经济学（Economics） - 游戏资源构建就是复杂的经济系统，理解经济学中的各种概念原则，对于游戏中经济体系的构建有着很大的帮助。
+
 工程学（Engineering） - 看明白代码。
+
 历史（History） - 如果是负责策划建构在历史背景上的游戏，需要丰富的历史知识，即便是在幻想背景上，许多灵感也是来自于真实历史。
+
 管理（Management） - 让团队可以朝着同一个目标努力。
+
+团队协作
+
 数学（Mathematics） - 数值的计算和分析。
+
 音乐（Music） - 音乐和美术是两个给用户第一印象的点，也是让用户沉浸其中的一个灵魂语言。
+
 心理学（Psychology） - 了解用户，满足用户。
+
 公众演讲（Public Speaking） - 需要把想法表达给别人，必须充满自信和说服力，让他人理解我们现在所做的工作。
+
 声音设计（Sound Design） - 无须多言，耳听为实
+
 技术性写作（Technical Writing） - 编写各种文档来清晰表述复杂的设计。
+
 视觉艺术（Visual Arts） - 任何产品的视觉要素，是影响用户去留的非常重要的因素之一，理解并且有自己的想法，对整个设计有很大的提升。
 
 
