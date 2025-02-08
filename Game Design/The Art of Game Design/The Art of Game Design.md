@@ -95,3 +95,70 @@ The major gift is love of the work.
 
 
 ## 2. The Designer Creates an Experience
+
+Create artifacts (rule sets, game boards, computer programs) that are likely to create certain kinds of experiences when a player interacts with them.
+
+
+### 2.1 Experience? Unique to the games?
+
+一本书或者一个电影剧本的作者只是在设计一种线性体验而已。在他们创作的内容以及读者和观众体验到的感觉上有着直接的映射关系。而游戏设计师就没这么轻松了。在体验过程中，我们给予了玩家对各种事件的节奏和顺序极大量的控制。
+
+我们甚至在游戏里加入了随机事件！这使得交互的实体和体验之间的区分比线性娱乐要明显得多。与此同时，这也使得更难确定在玩家内心里到底产生了哪种体验。
+
+### 2.2 追寻彩虹的三种途径
+
+心理学
+
+- 结果就是，现代心理学越向前发展，就离我们所关注的——人类体验的本质越来越远。
+
+- 作为设计师：我们并不关注客观现实世界中的绝对正确，而只关注在主观体验世界中的相对正确。
+
+人类学
+
+- 他们努力客观地观察文化并进行实践，同时不断反思，将自己放在实验对象的位置。
+
+- 我们可以从人类学家的研究中学到很多关于人类本质的重要知识——但更重要的是把文化人类学家的方法引入到我们的玩家中，与他们交谈，学习它们的一切，把我们自己放到它们的位置，我们就能获得客观观点中没有的洞察力。
+
+设计学
+
+- 我们必须开放思维并且勇于实践——优秀的创意能够来源于任何地方，但只有帮助提升游戏体验的创意才是好创意。
+
+### 2.3 Introspection: Powers, Perils, and Practice
+
+Peril #1: Introspection Can Lead to False Conclusions
+About Reality
+
+Peril #2: What Is True of My Experiences May Not be True
+for Others
+
+### 2.4 Dissect Your Feelings
+
+### 2.5 战胜海森堡原理
+
+“粒子的运动是无法在不干扰粒子的运动的情况下观察到的。类似地，一种体验也无法在不干扰到体验的本质的前提下观察到。”
+
+- Analyze Memories: Not analyzing it while you play, but with the intention of analyzing the memory of it immediately after
+
+- Two Passes: 分析记忆的一种方法是进行两轮体验。第一次别去停下来分析任何东西，只是去感受体验。然后回来再做一次，在这一次去分析每一样东西，可能甚至停下来记笔记。
+
+- Sneak Glances
+- Observe Silently
+
+### 2.6 Essential Experience
+
+在尝试设计一种体验时，你的目标是寻找能够定义你所想要的体验的基本元素，并想办法让它们成为游戏中的一部分。
+
+游戏设计师的终极目标是穿搭体验。当你对理想中的体验和它所需的元素有一个清晰的认识时，你的设计就有了方向。
+
+"如果我想做一个打雪球的游戏，那分析一下自己过去真实的打雪球的记忆不是对我要做的这个游戏很有帮助吗？但假如不是在一个真实的世界里和一群真实的朋友玩一场真正的打雪球，那是没办法完美地复制出这种体验的——那创造体验的关键点又在哪里呢？
+
+关键点在于你并不需要完美地复制各种真实的体验才能做出一个好的游戏。你需要的只是为你的游戏去捕获这些体验中的本质就可以了。那“一次体验的本质”又是什么意思呢？——每一次可回想起的记忆都是有着一些关键的特征来界定它的，正是这些关键的特征使记忆显得特别。例如当你回忆一次打雪球的体验时，你可能会想起很多东西。你可能甚至会想到这次体验中一些很本质的内容：“学校的课取消了，那天又下了很大雪，”“我们当时是在街上玩的，”“那些雪很容易裹成一团，”“那天很冷，但是阳光普照——天空是很蓝的，”“当时四处都有很多小孩，”“我们建了个巨大的城堡，”“Fred把一个雪球扔得很高，当我抬头去看时，他又把另一个丢到我头上了！”“我们一直在大笑。”在体验里还有一些部分你会觉得不是本质的：“当时我穿着灯芯绒的裤子，”“在我口袋里有一些薄荷糖，”“一个正在遛狗的男人看着我们。”
+
+作为游戏设计师，当你想要设计出某种体验时，你的目标是找出真正界定了你想创造的这种体验的本质元素，然后寻找各种方法来把这些元素变成游戏设计中的一部分。这样能让你游戏中的玩家能体验到这些本质元素。这本书中大部分的内容都会谈及各种这类的方法，利用这些方法，你打造出来的游戏能让玩家体验到你希望他们体验的。这里关键的一点在于你通常能用与真实体验极为不同的方法来传达出本质体验。回到我们前面说到的打雪球的例子，你能用什么方法在一个打雪球的游戏里传达出“天很冷”的体验呢？假如这是一个视频游戏，那理所当然能用美术图形的方式表达：角色会呼出一团团的白色热气，身体会做不断发抖的动画。你还能用音效去表达，通过刺耳的风声来传达寒冷的感觉。可能你想象到的不一定是寒冷大风的日子，但声效能捕捉到其中的本质，把寒冷的体验传达给玩家。假如寒冷这个概念对你很重要的话，你还能利用游戏的各种规则来表达。比方说玩家在不戴手套的情况下能做出更棒的雪球，但当他们的手变得太冷时，他们就必须带上手套了。这种情况可能并没有真的发生，但游戏规则能传达出这种寒冷的体验是游戏中主要组成部分。
+
+有些人觉得这种方法很奇怪，他们会说：“我们可以光去设计一个游戏，然后看看从中能冒出什么样的体验的！”我想这一定程度上也是对的——假如你不清楚自己想要什么，那你是不用在意自己会得到什么的。但假如你清楚自己想要什么——假如你能想象到游戏在玩家面前呈现出什么样的感受——那你就需要考虑如何去传达这种本质体验了。"
+
+![Lens1](./Lens/Lens1.png)
+
+The design of the very successive baseball game in Wii Sports is an excellent
+example of the Lens of Essential Experience in use. Originally, the designers had intended to make it as much like real baseball as possible with the added bonus that you could swing your controller like a bat. As they proceeded, though, they realized they wouldn’t have time to simulate every aspect of baseball as well as they wanted. So, they made a big decision — since swinging the controller was the most unique part of this game, they would focus all their attention on getting that part of the baseball experience right — what they felt was the essential part. They decided that other details (nine innings, stealing bases, etc.) were not part of the essential experience they were trying to create.
