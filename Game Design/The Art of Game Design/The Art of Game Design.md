@@ -162,3 +162,37 @@ for Others
 
 The design of the very successive baseball game in Wii Sports is an excellent
 example of the Lens of Essential Experience in use. Originally, the designers had intended to make it as much like real baseball as possible with the added bonus that you could swing your controller like a bat. As they proceeded, though, they realized they wouldn’t have time to simulate every aspect of baseball as well as they wanted. So, they made a big decision — since swinging the controller was the most unique part of this game, they would focus all their attention on getting that part of the baseball experience right — what they felt was the essential part. They decided that other details (nine innings, stealing bases, etc.) were not part of the essential experience they were trying to create.
+
+## 3. The Experience Rises Out of a Game
+
+### 3.1 漫谈定义
+
+A game is something you play. A toy is an object you play with. A good toy is an object that is fun to play with. Fun is pleasure with surprises. 
+
+![Lens2](./Lens/Lens2.png)
+
+![Lens3](./Lens/Lens3.png)
+
+![Lens4](./Lens/Lens4.png)
+
+![Lens5](./Lens/Lens5.png)
+
+- Games are entered willfully. 
+- Games have goals. 
+- Games have conflict. 
+- Games have rules. 
+- Games can be won and lost. 
+- Games are interactive. 
+- Games have challenge. 
+- Games can create their own internal value. 
+- Games engage players. 
+- Games are closed, formal systems.
+
+![Lens6](./Lens/Lens6.png)
+
+Jesse 认为 除了上面10点，游戏其实包含了解决问题。A game is a problem-solving activity, approached with a playful attitude.
+
+但是诸如Gary's mod, MineCraft的问题是什么呢？如何让自己的创造物更好？Playful attitude，对于严肃游戏有成立吗？
+
+所以给出我的定义：游戏是以自愿和自由为前提，以获得快乐自足为目的，且具有一定交互规则（玩家给出操作，规则给出反馈）的行为活动。
+
