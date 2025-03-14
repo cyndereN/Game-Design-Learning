@@ -232,14 +232,14 @@ Strengthen the power of your game’s experience.
 
 主题化的一个简单的例子：他有一本关于大象的书。这本书的创意是很简单的：向小孩子传达一种体验，让他们理解大象到底是什么。在某种意义上，你可以把这本书的主题叫做“什么是大象？”如此，步骤1就完成了。接下来我们去到步骤2：利用每一种可能的方法去强化这个主题。作者把这点是做得很明显的——这本书包含了各种关于大象的文字和图片。并且作者还把这步深化了，他把整本书以及书的封面和内页都裁剪成大象的形状。在每一次翻页里，你都需要找机会去以聪明和难以预料的方式去强化你的主题。
 
-![Lens8](./Lens/Lens9.png)
+![Lens10](./Lens/Lens9.png)
 
 ### 5.2 Resonance 共鸣
 
 “experience-based theme” “truth-based theme”
 
 
-![Lens8](./Lens/Lens10.png)
+![Lens10](./Lens/Lens10.png)
 
 
 共鸣性的主题能对你的作品增添极大的力量，不过即使你的游戏看起来没有这么一个主题，只要用一个统一的主题去聚焦游戏的体验，那整个游戏也会因此得以强化。
@@ -259,5 +259,70 @@ Strengthen the power of your game’s experience.
 
 - 总结：尽早确认主题，可以让我们的设计更聚焦，然后用尽所有方法强化主题，提升主题的传达度
 
-## 6. 
+## 6. The Game Begins with an Idea
 
+1. Think of an idea. 
+2. Try it out. 
+3. Keep changing it and testing it until it seems good enough. 
+
+Don’t look to others for inspiration — look everywhere else.
+
+![Lens11](./Lens/Lens11.png)
+
+设计的目的是解决问题，好的问题陈述能指出你的目标和约束。例如你最初的问题陈述可能是这样的：
+“如何能做出一个青少年真正喜欢的基于网页的游戏呢？”一个完整的游戏设计会包含基本四元组中的所有四类元素，也就是技术、机制、故事和美感。通常你的问题陈述会把你约束到四元素中的一种（或者多种）的一些已确立的决定上。
+
+
+![Lens12](./Lens/Lens12.png)
+
+### 6.1 How to Sleep
+
+睡眠不足会导致反应迟钝，记忆力下降，大脑运转效率退步，相当于进入了降智的debuff状态，很难获得灵感。
+
+优秀的设计师会把睡眠的无穷力量的优势利用到极致。如Dali的小睡眠。大部分优秀的、聪明的和创新的创意都不是通过有逻辑和有理可循的过程获得的。真正的优秀创意是随时随地地冒出来的，换句话说它们是从我们意识表层下的某处地方出现的——我们把这个地方称为潜意识，如梦境。
+
+### 6.2 Subconscious Tips
+
+#1: Pay Attention 
+
+#2: Record Your Ideas
+
+#3: Manage Its Appetites (Judiciously)：假如你没有得到温饱上、安全上和健康的个人关系上的满足，那是很难做出体现自我实现的创作性作品的。因此优先让这些事情得到解决，用一些折衷委婉的方案来让潜意识得到满足，如此它才能投入时间去提出各种天才般的想法。
+
+#4: Sleep
+
+#5: Don’t Push Too Hard：你曾经在谈话中想到某个名字（可能是你认识的某个人的名字，又或者是某个你认识的电影明星）却塞在嘴边想不起来吗？于是这时候就开始紧眯着眼睛，努力尝试去把答案从你脑海里逼出来——但它就是不肯出来。这时候你应该放弃并继续下去，先谈一下别的东西。几分钟以后这个答案就会突然从你脑海里跳出来了。你觉得它是从哪里跳出来的呢？这就好像当你转移到其他事情上时，你的潜意识同时也在不断努力去寻找这个名字那样。当他找到答案后，他把答案交回给你。
+
+
+
+### 6.3  Brainstorm Tips
+
+#1：写下答案
+
+#2：写字还是打字？
+
+#3：草图
+
+#4: Toys 
+
+#5: Change Your Perspective
+
+#6: Immerse Yourself
+
+#7: Crack Jokes
+
+#8: Spare No Expense
+
+#9: The Writing on the Wall 
+
+#10: The Space Remembers
+
+#11: Write Everything
+
+#12: Number Your Lists
+
+#13: Mix and Match Categories
+
+#14: Talk To Yourself
+
+#15: Find a Partner：不超过4个人的群体是最好的。
