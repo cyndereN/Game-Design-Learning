@@ -470,4 +470,107 @@ Mark Cerny 预知作：30%的预算
 
 *注记：不应该用20%的时间完成原型开发迭代然后80%polish和内容填充?
 
-## 8. 
+## 8.  The Game is Made for a Player
+
+#### 8.1 Demographics
+
+-  0-3：婴儿/初学走路的小孩。在这个年龄区间的孩子都对玩具非常感兴趣，但如果游戏中加入了复杂性和问题解决过程，那对他们来说是要求太高的。
+
+-  4-6：学龄前儿童。这个年龄的孩子通常会展现出他们对游戏的兴趣了。这时候的游戏应该是非常简单的，而且孩子们通常会更多地和父母一个玩，因为父母知道如何调整规则来让游戏好玩和有趣。
+
+-  7-9：小孩。7岁的年龄通常也称为“理性时期”。在这个年龄下，小孩子都进入学校了，一般都能阅读、把一件事思考完全和解决部分困难的问题了，自然而然地，他们也开始对玩游戏表现出浓厚的兴趣。同时也在这个年龄段里，小孩开始能自己决定他们喜欢和不喜欢哪类玩具和游戏了，而不像以前那样只一味地接受父母选择给他们的东西。
+
+-  10-13：青春期前时期或者“童年到青少年的过渡时期”。市场商也是最近才意识到这群人是和“小孩”以及“青少年”有所区别的。他们开始对世界有更为深入的思考，开始着迷于他们感兴趣的东西，例如：喜欢的异性、某项竞技类运动、音乐等。
+
+-  13-18：青少年，青少年的任务是开始为成年期准备。在这个年龄下，我们通常能看到在男性和女性的兴趣上出现了明显的分歧。男孩不断表现出在竞技和专精上的兴趣（而且通常会越来越感兴趣），他们喜欢尝试新鲜的体验，因为安全性以及道德的约束，很多行为只能在游戏中进行，例如：战斗、飙车、破坏等等。而女孩变得更加关注现实世界的问题和沟通交流。
+
+-  18-24：年轻的成人。这是第一个的“成人”年龄分组，也标记着一个重要的过渡时期。通常来说成人是比小孩玩得要少的。大部分的成人的确还会继续玩，但在这个时期由于他们十几岁的时候已经尝试过很多东西了，他们已经确立了自己喜欢的游戏类型和娱乐类型的品味。年轻的成人通常手里都有着时间和金钱，这也让他们成为游戏的重大消费者。
+
+-  25-35：二十几到三十几岁。在这个年龄段里，时间开始变得更加珍贵了。这个年龄是“构建家庭的巅峰时期”。他们的大半精力投入到家庭与工作中，大多数人只玩休闲游戏，但也有少部分的“核心玩家”，游戏是他们的主要爱好，有大量闲钱可以花在游戏上，十分愿意表达自己对游戏的喜好与厌恶
+
+-  35-50：三十几到四十几岁。有时候会把这个阶段叫做“家庭成熟”阶段，在这个年龄段上的成人都非常专注于事业和家庭责任，并且只会是轻度游戏玩家。由于他们孩子年龄的增长，他们会寻求整个家庭一起玩游戏的机会。
+
+-  50：50岁及以上。在这个年龄段上的成人通常称为“空巢者”，他们突然手里有了大堆的时间，同时他们的孩子也搬出去了，自己也很快面临退休了。于是其中的一些人会回到自己年轻时喜欢的游戏上，而其他人会寻求改变，转向新的游戏体验。在这个年龄段上的成人会对那些有着强力的社交成分的游戏体验感兴趣，例如高尔夫球、网球、桥牌，以及多人在线游戏。
+
+#### 8.2 Five Things Males Like to See in Games
+
+1. Mastery. Males enjoy mastering things. It doesn’t have to be something important or useful — it only has to be challenging. 
+
+2. Competition. Males really enjoy competing against others to prove that they are 
+the best. 
+
+3. Destruction. Males like destroying things.
+
+4. Spatial Puzzles. Studies have shown that males generally have stronger skills of 
+spatial reasoning than females, and most people would agree that this matches 
+anecdotal evidence.
+
+5. Trial and Error. 男性倾向于通过反复试错来学习。
+
+#### 8.3 Five Things Females Like to See in Games
+
+1. 情感。女性玩家喜欢探索人类丰富的情感体验。对于男性玩家来说，情感只是有趣的内容之一。
+
+2. 现实世界。女性玩家倾向于玩一些与现实世界有关联的娱乐活动。如果你观察孩子们玩游戏，女孩们会玩那些与现实世界有强烈联系的游戏(过家家、扮演兽医、换装游戏等)，而男孩们更喜欢扮演幻想中的角色。
+
+3. 抚育。在固有印象中，女性玩家喜欢抚育。喜欢照顾玩具娃娃、玩具宠物和比他们更小的孩子，种植游戏和宠物游戏在女性玩家中的成功大部分源于它们的抚育机制。
+
+4. 对话和文字谜题。常有人说女性因为缺乏空间能力而造就了他们在语言上的能力。
+
+5. 通过例子来学习。就像男性喜欢远离说明书，自己去进行反复试验的方法那样，女性更喜欢通过例子来学习。
+
+
+
+![Lens16](./Lens/Lens16.png)
+
+
+#### 8.4 Psychographics 
+
+##### 8.4.1 勒布朗的游戏乐趣分类：
+
+感官、幻想、叙事、挑战、团队关系、探索、表达、服从。
+
+##### 8.4.2 Bartle’s Taxonomy of Player Types
+
+1. ♦ Achievers want to achieve the goals of the game. Their primary pleasure is 
+Challenge. 
+2. ♠ Explorers want to get to know the breadth of the game. Their primary pleasure is Discovery. 
+3. ♥ Socializers are interested in relationships with other people. They primarily 
+seek the pleasures of Fellowship. 
+4. ♣ Killers are interested in competing with and defeating others. This category 
+does not map well to LeBlanc’s taxonomy. For the most part, it seems killers 
+enjoy a mix of the pleasures of competition and destruction. Interestingly, Bartle 
+characterizes them as primarily interested in “imposing themselves on others, ”
+and includes in this category people who are primarily interested in helping 
+others
+
+##### 8.4.3 More Pleasures
+
+- 预感。当你知道某种快乐将要来临时，光是等待的过程也是一种快乐。
+
+- 幸灾乐祸。当一些不公平的人突然得到他们应得的报应时，我们就会感到这种快乐了。这在竞技性游戏中是很重要的因素。德国人把它称为“幸灾乐祸”。
+
+- 给予礼物。这是当你通过一份礼物的惊喜来让他人开心的一种独特的快乐。我们把礼物层层包装来提升和加强这种惊喜感。快乐并不是因为那个人很开心，而是来源于你让他开心了。
+
+- 幽默。两种不相关联的东西通过形式变化突然联系起来了。这种感觉是很难描述的，但当它发生时我们都能了解到。奇怪的是它能让我们会心大笑。
+
+- 可能性。这种快乐是在游戏有着众多选择并且让你知道你可以挑选其中的任何一种所产生的。它通常能在购物过程中或者坐在自助餐桌前能体验到。
+
+- 成就的自豪。光靠这种快乐可以在成就达成之后持续很长一段时间。依地语把这个词叫做“得意”，它是指一种快乐的满足感，通常用在小孩子的身上。
+
+- 净化。让某件东西变得干净是让人感觉良好的。很多游戏都利用了净化的快乐——比方说让你“吃光所有的豆”、“消灭所有的坏蛋”，或者“清光这个关卡”都是利用了这种快乐。
+
+- 惊喜。正如第2个透镜：惊喜感向我们展现的，我们的大脑都喜欢各种惊喜。
+
+- 刺激。在过山车设计师里流传着这么一种说法：“害怕减去死亡等于乐趣”。刺激正是这种乐趣——你能体验到恐惧，但却能感觉自己是安全的。
+
+- 战胜逆境。当你达成了某样你所知道是极少人成功的事后，你就能感觉到这种快乐了。这种快乐往往是伴随着个人的胜利的。意大利人用“自豪”这个词来形容这种快乐。
+
+- 好奇。一种敬畏和惊愕并存的无法抗拒的感觉。
+
+
+
+![Lens17](./Lens/Lens17.png)
+
+
+## 9. The Experience is in the Player’s Mind
