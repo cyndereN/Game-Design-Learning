@@ -23,8 +23,6 @@ along the way.
 
 头脑风暴（Brainstorming） - 不断的想出新的创意。
 
-
-
 商业（Business） - 商业游戏的使命，越会用游戏赚钱，越有机会做出成就梦想的游戏。（also 数据分析）
 
 电影学（Cinematography） - 学会穿搭一种在情感上极具吸引力的体验，将游戏过程想象成一部沉浸式电影。
@@ -57,8 +55,7 @@ along the way.
 
 视觉艺术（Visual Arts） - 任何产品的视觉要素，是影响用户去留的非常重要的因素之一，理解并且有自己的想法，对整个设计有很大的提升。
 
-
-### The Most Important Skill 
+### The Most Important Skill
 
 倾听，分为五个领域：团队，受众，游戏，客户以及自己。
 
@@ -67,6 +64,7 @@ along the way.
 用一颗平静的心和一个静待开放的灵魂去倾听。去除情感，去除欲望，去除判断，去除指责。
 
 ### The Five Kinds of Listening
+
 我们需要倾听我们的团队，因为我们需要一起制作游戏和做出各种关键的设计决策，并且一个人很难完全掌握上面所述的所有技能，但是一个团队的智慧加起来就有可能。所以我们需要深层的倾听我们的团队，并且和他们交流，让每个人都变成整体的一部分，分享自己所掌握的技能。
 
 我们需要倾听我们的受众，因为他们是真正来玩我们的游戏的人，如果它们不满意我们的游戏，那么我们所做的一切都是失败的，去了解如何让他们满意，就是深层的倾听他们，想办法比他们更了解他们自身的需求。
@@ -83,9 +81,8 @@ along the way.
 
 **我是一名游戏设计师**
 
+### The Secret of the Gifted
 
-
-### The Secret of the Gifted 
 There are two kinds.
 First, there is the innate gift of a given skill. This is the minor gift. If you have this
 gift, a skill such as game design, mathematics, or playing the piano comes natu-
@@ -93,11 +90,9 @@ rally to you.
 
 The major gift is love of the work.
 
-
 ## 2. The Designer Creates an Experience
 
 Create artifacts (rule sets, game boards, computer programs) that are likely to create certain kinds of experiences when a player interacts with them.
-
 
 ### 2.1 Experience? Unique to the games?
 
@@ -167,7 +162,7 @@ example of the Lens of Essential Experience in use. Originally, the designers ha
 
 ### 3.1 漫谈定义
 
-A game is something you play. A toy is an object you play with. A good toy is an object that is fun to play with. Fun is pleasure with surprises. 
+A game is something you play. A toy is an object you play with. A good toy is an object that is fun to play with. Fun is pleasure with surprises.
 
 ![Lens2](./Lens/Lens2.png)
 
@@ -177,15 +172,15 @@ A game is something you play. A toy is an object you play with. A good toy is an
 
 ![Lens5](./Lens/Lens5.png)
 
-- Games are entered willfully. 
-- Games have goals. 
-- Games have conflict. 
-- Games have rules. 
-- Games can be won and lost. 
-- Games are interactive. 
-- Games have challenge. 
-- Games can create their own internal value. 
-- Games engage players. 
+- Games are entered willfully.
+- Games have goals.
+- Games have conflict.
+- Games have rules.
+- Games can be won and lost.
+- Games are interactive.
+- Games have challenge.
+- Games can create their own internal value.
+- Games engage players.
 - Games are closed, formal systems.
 
 ![Lens6](./Lens/Lens6.png)
@@ -208,7 +203,6 @@ Jesse 认为 除了上面10点，游戏其实包含了解决问题。A game is a
 
 4. 技术（Technology）：Any materials and interactions that make your game possible such as paper and pencil, plastic chits, or high-powered lasers.The technology is essentially the medium in which the aesthetics take place, in which the mechanics will occur, and through which the story will be told.
 
-
 ![Lens7](./Lens/Lens7.png)
 
 ### 4.2 Skin and Skeleton
@@ -219,12 +213,11 @@ Jesse 认为 除了上面10点，游戏其实包含了解决问题。A game is a
 
 ![Lens8](./Lens/Lens8.png)
 
-
 ## 5. The Elements Support a Theme
 
-### 5.1 Unifying Themes 
+### 5.1 Unifying Themes
 
-Strengthen the power of your game’s experience. 
+Strengthen the power of your game’s experience.
 
 *Step 1: Figure out what your them49e is.*
 
@@ -238,9 +231,7 @@ Strengthen the power of your game’s experience.
 
 “experience-based theme” “truth-based theme”
 
-
 ![Lens10](./Lens/Lens10.png)
-
 
 共鸣性的主题能对你的作品增添极大的力量，不过即使你的游戏看起来没有这么一个主题，只要用一个统一的主题去聚焦游戏的体验，那整个游戏也会因此得以强化。
 
@@ -261,9 +252,9 @@ Strengthen the power of your game’s experience.
 
 ## 6. The Game Begins with an Idea
 
-1. Think of an idea. 
-2. Try it out. 
-3. Keep changing it and testing it until it seems good enough. 
+1. Think of an idea.
+2. Try it out.
+3. Keep changing it and testing it until it seems good enough.
 
 Don’t look to others for inspiration — look everywhere else.
 
@@ -271,7 +262,6 @@ Don’t look to others for inspiration — look everywhere else.
 
 设计的目的是解决问题，好的问题陈述能指出你的目标和约束。例如你最初的问题陈述可能是这样的：
 “如何能做出一个青少年真正喜欢的基于网页的游戏呢？”一个完整的游戏设计会包含基本四元组中的所有四类元素，也就是技术、机制、故事和美感。通常你的问题陈述会把你约束到四元素中的一种（或者多种）的一些已确立的决定上。
-
 
 ![Lens12](./Lens/Lens12.png)
 
@@ -283,49 +273,47 @@ Don’t look to others for inspiration — look everywhere else.
 
 ### 6.2 Subconscious Tips
 
-#1: Pay Attention 
+1: Pay Attention
 
-#2: Record Your Ideas
+2: Record Your Ideas
 
-#3: Manage Its Appetites (Judiciously)：假如你没有得到温饱上、安全上和健康的个人关系上的满足，那是很难做出体现自我实现的创作性作品的。因此优先让这些事情得到解决，用一些折衷委婉的方案来让潜意识得到满足，如此它才能投入时间去提出各种天才般的想法。
+3: Manage Its Appetites (Judiciously)：假如你没有得到温饱上、安全上和健康的个人关系上的满足，那是很难做出体现自我实现的创作性作品的。因此优先让这些事情得到解决，用一些折衷委婉的方案来让潜意识得到满足，如此它才能投入时间去提出各种天才般的想法。
 
-#4: Sleep
+4: Sleep
 
-#5: Don’t Push Too Hard：你曾经在谈话中想到某个名字（可能是你认识的某个人的名字，又或者是某个你认识的电影明星）却塞在嘴边想不起来吗？于是这时候就开始紧眯着眼睛，努力尝试去把答案从你脑海里逼出来——但它就是不肯出来。这时候你应该放弃并继续下去，先谈一下别的东西。几分钟以后这个答案就会突然从你脑海里跳出来了。你觉得它是从哪里跳出来的呢？这就好像当你转移到其他事情上时，你的潜意识同时也在不断努力去寻找这个名字那样。当他找到答案后，他把答案交回给你。
-
-
+5: Don’t Push Too Hard：你曾经在谈话中想到某个名字（可能是你认识的某个人的名字，又或者是某个你认识的电影明星）却塞在嘴边想不起来吗？于是这时候就开始紧眯着眼睛，努力尝试去把答案从你脑海里逼出来——但它就是不肯出来。这时候你应该放弃并继续下去，先谈一下别的东西。几分钟以后这个答案就会突然从你脑海里跳出来了。你觉得它是从哪里跳出来的呢？这就好像当你转移到其他事情上时，你的潜意识同时也在不断努力去寻找这个名字那样。当他找到答案后，他把答案交回给你。
 
 ### 6.3  Brainstorm Tips
 
-#1：写下答案
+1：写下答案
 
-#2：写字还是打字？
+2：写字还是打字？
 
-#3：草图
+3：草图
 
-#4: Toys 
+4: Toys
 
-#5: Change Your Perspective
+5: Change Your Perspective
 
-#6: Immerse Yourself
+6: Immerse Yourself
 
-#7: Crack Jokes
+7: Crack Jokes
 
-#8: Spare No Expense
+8: Spare No Expense
 
-#9: The Writing on the Wall 
+9: The Writing on the Wall
 
-#10: The Space Remembers
+10: The Space Remembers
 
-#11: Write Everything
+11: Write Everything
 
-#12: Number Your Lists
+12: Number Your Lists
 
-#13: Mix and Match Categories
+13: Mix and Match Categories
 
-#14: Talk To Yourself
+14: Talk To Yourself
 
-#15: Find a Partner：不超过4个人的群体是最好的。
+15: Find a Partner：不超过4个人的群体是最好的。
 
 ## 7. The Game Improves Through Iteration
 
@@ -341,54 +329,37 @@ A plan is a real thing. Do get emotionally detached
 
 关键问题：“这个游戏感觉对头吗？”
 
-
-
 滤镜#2：受众的统计数据：你的游戏是有着一群目标受众的。他们可能是一个年龄区间，或者某种性别，又或者是某类与众不同的受众（例如“高尔夫球的狂热者”）。你必须考虑这份设计是否符合你瞄准的受众的各种统计数据。受众的统计数据会在第8章进行更详细地讨论。
 
 关键问题：“目标受众会足够喜欢这个游戏吗？”
-
-
 
 滤镜#3：体验设计：在应用这个滤镜时，把你所知道的能用来创造一种出色的体验的所有东西都考虑进去，包括美感、兴趣曲线、共鸣的主题、游戏平衡，以及其他更多的东西。这本书里很多透镜都是关于体验设计的——当通过这重滤镜后，你的游戏一定是经得起众多透镜的考验了。
 
 关键问题：“这是一个良好设计的游戏吗？”
 
-
-
 滤镜#4：创新：假如你在设计一个新游戏，那明显需要在游戏里有一些新的东西，一些玩家从来没见过的东西。你的游戏是否新颖是一个主观的问题，但也是一个非常重要的问题。
 
 关键问题：“这个游戏足够新颖吗？”
-
-
 
 滤镜#5：商业和市场营销：游戏行业始终是一门商业，那些想把游戏卖出去的设计师必须考虑到这点事实，然后把商业整合到游戏设计里面。这引申出很多问题。例如，主题和故事会吸引消费者吗？游戏容易解释，以致于能通过看包装盒就能理解这是一个什么游戏吗？消费者基于这个类型会希望这个游戏里有什么样的特点？这个游戏中各种特性和市场上同类游戏相比如何呢？这个游戏的制作成本会不会大到使得它赚不到钱？零售商会愿意销售这个游戏吗？对这些问题以及其他类似问题的答案会影响到你的设计。讽刺的是，当你把设计用这重滤镜审核时，当初驱动最初的设计的那个创新想法可能变得完全站不住脚。这点我们会在第29章详细讨论。
 
 关键问题：“这个游戏能卖得火吗？”
 
-
-
 滤镜#6：技术角度：在你把游戏做出来之前，游戏创意仅仅是一个创意，而且光是创意是不需要受到可行性和实用性的约束的。要通过这重滤镜，你必须回答一个问题：“我们打算如何做出这个游戏呢？”问题的答案在于技术上的限制，技术上是否允许这个创意如它原本设想地那样制作出来呢？新手的设计师通常都会对技术强加给设计的限制感到失落。不过技术角度的滤镜往往也能让游戏向着新的方向发展，因为在运用这个滤镜的过程中，你可能意识到一些本来没设想到且技术支持的特性。这个滤镜的运用过程中出现的各种创意是特别珍贵的，因为你能很确定它们是可行的。关于技术和工程方面的问题我们会在第26章更详细地讨论。
 
 关键问题：“这个游戏在技术上有可能做出来吗？”
-
-
 
 滤镜#7：社会/社区角度：有时候，一个游戏光是有趣是不够的。一些设计目标可能需要一种强力的社会成分，或者是形成一个围绕着游戏的兴盛的社区。你的游戏中的设计会对这些方面带来很强的影响。这方面我们会在第21章和22章详细讨论。
 
 关键问题：“这个游戏满足我们社会上和社区上的目标吗？”
 
-
-
 滤镜#8：游戏测试：一旦游戏开发到可玩的程度时，你必须运用这个游戏测试的滤镜，它可以说是所有滤镜中最重要的。你所想的游戏过程会是一种情况，实际上玩起来可能是另一种情况，而当你看到目标受众在玩的时候或许又是另一种情况。你应该让游戏尽快到达一种可玩的阶段，因为当你真正看到游戏在运行时，那些必须做出的重大修改会马上变得明显起来。这个滤镜的运用除了能对游戏进行修改以外，它往往还会修改和调整其他滤镜，因为在这个运用过程中你开始对游戏各个机制以及目标受众的心理有了更多的了解了。游戏测试过程会在第25章详细讨论到。
 
 关键问题：“参与游戏测试的人足够喜欢这个游戏吗？”
 
-
-
 ![Lens13](./Lens/Lens13.png)
 
-
-### 7.3 The Rule of the Loop 
+### 7.3 The Rule of the Loop
 
 The more times you test and improve your design, the better your game will be.
 
@@ -407,20 +378,19 @@ The more times you test and improve your design, the better your game will be.
 
 ### 7.4 Risk Assessment and Prototyping
 
-
 ![Lens14](./Lens/Lens14.png)
 
 ### 7.5 Eight Tips for Productive Prototyping
 
 **Prototyping Tip # 1: Answer a Question**
 
-Some sample questions a prototype might answer: 
+Some sample questions a prototype might answer:
 
-● How many animated characters can our technology support in a scene? 
+● How many animated characters can our technology support in a scene?
 
-● Is our core gameplay fun? Does it stay fun for a long time? 
+● Is our core gameplay fun? Does it stay fun for a long time?
 
-● Do our characters and settings fit together well aesthetically? 
+● Do our characters and settings fit together well aesthetically?
 
 ● How large does a level of this game need to be?
 
@@ -444,9 +414,7 @@ Some sample questions a prototype might answer:
 
 GTA并不是设计成我们看到的GTA那样的。它只是设计成一个媒介，一个鲜活逼真的玩起来有趣的城市。”当这个“媒介”开发完成时，整个团队都觉得它是一个很有趣的玩具，结果就必须为它做出一个游戏了。他们意识到整座城市就像一个迷宫那样，于是他们从一些他们认为不错的游戏里借用了迷宫的游戏机制。Jones解释道：“GTA的设计来源于吃豆人（Pac-Man）。那些小点也就是小人。我自己是在小小的黄色汽车里的，而吃豆人里的幽灵也就是GTA里的警察。”
 
-
 ![Lens15](./Lens/Lens15.png)
-
 
 ### 7.6 让循环变成回路
 
@@ -474,35 +442,35 @@ Mark Cerny 预知作：30%的预算
 
 #### 8.1 Demographics
 
--  0-3：婴儿/初学走路的小孩。在这个年龄区间的孩子都对玩具非常感兴趣，但如果游戏中加入了复杂性和问题解决过程，那对他们来说是要求太高的。
+- 0-3：婴儿/初学走路的小孩。在这个年龄区间的孩子都对玩具非常感兴趣，但如果游戏中加入了复杂性和问题解决过程，那对他们来说是要求太高的。
 
--  4-6：学龄前儿童。这个年龄的孩子通常会展现出他们对游戏的兴趣了。这时候的游戏应该是非常简单的，而且孩子们通常会更多地和父母一个玩，因为父母知道如何调整规则来让游戏好玩和有趣。
+- 4-6：学龄前儿童。这个年龄的孩子通常会展现出他们对游戏的兴趣了。这时候的游戏应该是非常简单的，而且孩子们通常会更多地和父母一个玩，因为父母知道如何调整规则来让游戏好玩和有趣。
 
--  7-9：小孩。7岁的年龄通常也称为“理性时期”。在这个年龄下，小孩子都进入学校了，一般都能阅读、把一件事思考完全和解决部分困难的问题了，自然而然地，他们也开始对玩游戏表现出浓厚的兴趣。同时也在这个年龄段里，小孩开始能自己决定他们喜欢和不喜欢哪类玩具和游戏了，而不像以前那样只一味地接受父母选择给他们的东西。
+- 7-9：小孩。7岁的年龄通常也称为“理性时期”。在这个年龄下，小孩子都进入学校了，一般都能阅读、把一件事思考完全和解决部分困难的问题了，自然而然地，他们也开始对玩游戏表现出浓厚的兴趣。同时也在这个年龄段里，小孩开始能自己决定他们喜欢和不喜欢哪类玩具和游戏了，而不像以前那样只一味地接受父母选择给他们的东西。
 
--  10-13：青春期前时期或者“童年到青少年的过渡时期”。市场商也是最近才意识到这群人是和“小孩”以及“青少年”有所区别的。他们开始对世界有更为深入的思考，开始着迷于他们感兴趣的东西，例如：喜欢的异性、某项竞技类运动、音乐等。
+- 10-13：青春期前时期或者“童年到青少年的过渡时期”。市场商也是最近才意识到这群人是和“小孩”以及“青少年”有所区别的。他们开始对世界有更为深入的思考，开始着迷于他们感兴趣的东西，例如：喜欢的异性、某项竞技类运动、音乐等。
 
--  13-18：青少年，青少年的任务是开始为成年期准备。在这个年龄下，我们通常能看到在男性和女性的兴趣上出现了明显的分歧。男孩不断表现出在竞技和专精上的兴趣（而且通常会越来越感兴趣），他们喜欢尝试新鲜的体验，因为安全性以及道德的约束，很多行为只能在游戏中进行，例如：战斗、飙车、破坏等等。而女孩变得更加关注现实世界的问题和沟通交流。
+- 13-18：青少年，青少年的任务是开始为成年期准备。在这个年龄下，我们通常能看到在男性和女性的兴趣上出现了明显的分歧。男孩不断表现出在竞技和专精上的兴趣（而且通常会越来越感兴趣），他们喜欢尝试新鲜的体验，因为安全性以及道德的约束，很多行为只能在游戏中进行，例如：战斗、飙车、破坏等等。而女孩变得更加关注现实世界的问题和沟通交流。
 
--  18-24：年轻的成人。这是第一个的“成人”年龄分组，也标记着一个重要的过渡时期。通常来说成人是比小孩玩得要少的。大部分的成人的确还会继续玩，但在这个时期由于他们十几岁的时候已经尝试过很多东西了，他们已经确立了自己喜欢的游戏类型和娱乐类型的品味。年轻的成人通常手里都有着时间和金钱，这也让他们成为游戏的重大消费者。
+- 18-24：年轻的成人。这是第一个的“成人”年龄分组，也标记着一个重要的过渡时期。通常来说成人是比小孩玩得要少的。大部分的成人的确还会继续玩，但在这个时期由于他们十几岁的时候已经尝试过很多东西了，他们已经确立了自己喜欢的游戏类型和娱乐类型的品味。年轻的成人通常手里都有着时间和金钱，这也让他们成为游戏的重大消费者。
 
--  25-35：二十几到三十几岁。在这个年龄段里，时间开始变得更加珍贵了。这个年龄是“构建家庭的巅峰时期”。他们的大半精力投入到家庭与工作中，大多数人只玩休闲游戏，但也有少部分的“核心玩家”，游戏是他们的主要爱好，有大量闲钱可以花在游戏上，十分愿意表达自己对游戏的喜好与厌恶
+- 25-35：二十几到三十几岁。在这个年龄段里，时间开始变得更加珍贵了。这个年龄是“构建家庭的巅峰时期”。他们的大半精力投入到家庭与工作中，大多数人只玩休闲游戏，但也有少部分的“核心玩家”，游戏是他们的主要爱好，有大量闲钱可以花在游戏上，十分愿意表达自己对游戏的喜好与厌恶
 
--  35-50：三十几到四十几岁。有时候会把这个阶段叫做“家庭成熟”阶段，在这个年龄段上的成人都非常专注于事业和家庭责任，并且只会是轻度游戏玩家。由于他们孩子年龄的增长，他们会寻求整个家庭一起玩游戏的机会。
+- 35-50：三十几到四十几岁。有时候会把这个阶段叫做“家庭成熟”阶段，在这个年龄段上的成人都非常专注于事业和家庭责任，并且只会是轻度游戏玩家。由于他们孩子年龄的增长，他们会寻求整个家庭一起玩游戏的机会。
 
--  50：50岁及以上。在这个年龄段上的成人通常称为“空巢者”，他们突然手里有了大堆的时间，同时他们的孩子也搬出去了，自己也很快面临退休了。于是其中的一些人会回到自己年轻时喜欢的游戏上，而其他人会寻求改变，转向新的游戏体验。在这个年龄段上的成人会对那些有着强力的社交成分的游戏体验感兴趣，例如高尔夫球、网球、桥牌，以及多人在线游戏。
+- 50：50岁及以上。在这个年龄段上的成人通常称为“空巢者”，他们突然手里有了大堆的时间，同时他们的孩子也搬出去了，自己也很快面临退休了。于是其中的一些人会回到自己年轻时喜欢的游戏上，而其他人会寻求改变，转向新的游戏体验。在这个年龄段上的成人会对那些有着强力的社交成分的游戏体验感兴趣，例如高尔夫球、网球、桥牌，以及多人在线游戏。
 
 #### 8.2 Five Things Males Like to See in Games
 
-1. Mastery. Males enjoy mastering things. It doesn’t have to be something important or useful — it only has to be challenging. 
+1. Mastery. Males enjoy mastering things. It doesn’t have to be something important or useful — it only has to be challenging.
 
-2. Competition. Males really enjoy competing against others to prove that they are 
-the best. 
+2. Competition. Males really enjoy competing against others to prove that they are
+the best.
 
 3. Destruction. Males like destroying things.
 
-4. Spatial Puzzles. Studies have shown that males generally have stronger skills of 
-spatial reasoning than females, and most people would agree that this matches 
+4. Spatial Puzzles. Studies have shown that males generally have stronger skills of
+spatial reasoning than females, and most people would agree that this matches
 anecdotal evidence.
 
 5. Trial and Error. 男性倾向于通过反复试错来学习。
@@ -519,29 +487,26 @@ anecdotal evidence.
 
 5. 通过例子来学习。就像男性喜欢远离说明书，自己去进行反复试验的方法那样，女性更喜欢通过例子来学习。
 
-
-
 ![Lens16](./Lens/Lens16.png)
 
+#### 8.4 Psychographics
 
-#### 8.4 Psychographics 
-
-##### 8.4.1 勒布朗的游戏乐趣分类：
+##### 8.4.1 勒布朗的游戏乐趣分类
 
 感官、幻想、叙事、挑战、团队关系、探索、表达、服从。
 
 ##### 8.4.2 Bartle’s Taxonomy of Player Types
 
-1. ♦ Achievers want to achieve the goals of the game. Their primary pleasure is 
-Challenge. 
-2. ♠ Explorers want to get to know the breadth of the game. Their primary pleasure is Discovery. 
-3. ♥ Socializers are interested in relationships with other people. They primarily 
-seek the pleasures of Fellowship. 
-4. ♣ Killers are interested in competing with and defeating others. This category 
-does not map well to LeBlanc’s taxonomy. For the most part, it seems killers 
-enjoy a mix of the pleasures of competition and destruction. Interestingly, Bartle 
+1. ♦ Achievers want to achieve the goals of the game. Their primary pleasure is
+Challenge.
+2. ♠ Explorers want to get to know the breadth of the game. Their primary pleasure is Discovery.
+3. ♥ Socializers are interested in relationships with other people. They primarily
+seek the pleasures of Fellowship.
+4. ♣ Killers are interested in competing with and defeating others. This category
+does not map well to LeBlanc’s taxonomy. For the most part, it seems killers
+enjoy a mix of the pleasures of competition and destruction. Interestingly, Bartle
 characterizes them as primarily interested in “imposing themselves on others, ”
-and includes in this category people who are primarily interested in helping 
+and includes in this category people who are primarily interested in helping
 others
 
 ##### 8.4.3 More Pleasures
@@ -568,10 +533,7 @@ others
 
 - 好奇。一种敬畏和惊愕并存的无法抗拒的感觉。
 
-
-
 ![Lens17](./Lens/Lens17.png)
-
 
 ## 9. The Experience is in the Player’s Mind
 
@@ -585,10 +547,7 @@ others
 
 我们要理解的很重要的一点是我们所体验和思考的一切事物都是一个模型，而不是事实。事实是超出我们理解的。我们所能理解的只是现实的模型。有时候这个模型会被打破，然后我们必须修复它。我们所体验到的现实只是一种幻觉，但也只有这种幻觉是我们唯一能够了解的现实。作为设计师，假如你能理解和控制玩家头脑里这种幻觉的形成过程，那你就能创造出让玩家觉得是真实的感受了，这种感受甚至能比事实本身更让人觉得真实。
 
-
 ### 9.2 Focus
-
-
 
 心流（Flow）“完全专注于一个活动中，并感到高度的乐趣和满足感”
 
@@ -609,7 +568,7 @@ others
 
 游戏就是解决问题，而情感投射是解决问题的好办法
 
-### 9.4 Imagination 
+### 9.4 Imagination
 
 想象力有着两个关键性的功能：其一是交流（通常是用于讲故事），其二用于问题解决过程上。由于游戏明显包含了这两点，因此游戏设计师必须懂得如何引起玩家的想象力，让玩家的想象力成为讲故事和问题解决过程中的一大帮手。
 
@@ -628,7 +587,6 @@ others
 
 ![Lens20](./Lens/Lens20.png)
 
-
 ### *9.7 注记
 
 有东西驱策着我们，让我们把这些本来微不足道的小事当做生死攸关，此所谓动机的魔力。
@@ -646,7 +604,7 @@ others
         - 游戏帧速不至于太卡顿
         - 服务器不会经常宕机
         - 没有严重的阻断性bug
-        
+
         “生理需求”是游戏应该提供给玩家的基础保障，一般来讲不适合作为激励措施来实现功能诉求
 
     2. 安全需求
@@ -661,7 +619,7 @@ others
         把玩家的存量金币换成其他道具，是个“消耗中大R用户30%金币存量”的不错方法
 
     3. 社交需求
-    
+
         大多数玩家期望建立长期稳定的人际关系、友谊、和社区等，下面是游戏中常见的社交需求表现场景
 
         - 归属感
@@ -692,7 +650,7 @@ others
         通过荣耀感或成就感去刺激用户进行某个内容的争夺，从而“消耗中大R用户30%金币存量”，看起来是个靠谱的方案
 
     5. 求知需求
-    
+
         求知欲是动物处于对某事物全部或部分属性空白时，本能想添加此事物属性的内在心理，以下是游戏中常见的求知需求表现场景
 
         - 探索：对游戏世界充满好奇，喜欢四处探索，去寻找世界中有意思的内容，在这个过程中，玩家得到的惊喜越多，玩家的探索欲就会变得越强
@@ -714,9 +672,9 @@ others
         - 协调美：当一块精工机械表运转起来时，齿轮之间毫无瑕疵的完美配合形成了这种协调之美，如果游戏中各个功能模块运转时，能达到精工机械表一样的井然有序，主次分明，那玩家一定会感受到这种协调之美
 
         简洁美和协调美一般体现在功能设计上，而外观美常用来进行商业化，一套惊艳世人的绝版皮肤轻松卖到上千米，作为“消耗中大R用户30%金币存量”的手段，再合适不过
-    
+
     7. 自我实现
-    
+
         自我实现是指玩家在游戏中受到某种启发，“自主”产生了游戏目标，在实践这个目标的过程中，玩家的耐受力以及目标完成时的兴奋感将得到大幅提升，下面是游戏设计中涉及到自我实现的相关内容
 
         - 内在动机：吸引玩家进行某些行为的主要原因不应该是物质，而是玩家发自内心会喜欢的精神追求，想想那些为了工会战而充了几十万米的玩家，他们的目标并不是工会战胜利的奖品，而是工会战胜利本身。
@@ -729,7 +687,7 @@ others
         通过诱导的方式激发玩家的内在动机，使玩家对某个本质追求产生强烈的目标，此时此刻“消耗中大R用户30%金币存量”就只是个小目标而已
 
     8. 自我超越
-    
+
         宫崎骏的新作品《你想活出怎样的人生》，讲述的就是自我超越这个话题，人生的意义是什么？你的理想是什么？如果玩家在游戏中产生了人生理想般的追求，那将是怎样的局面？
 
         - 重获新生：对某些人来说，游戏不只是消遣的工具，还是逃离现实世界的避风港，让玩家暂时忘记现实世界中的窘迫，过上自己真正想要的生活
@@ -740,7 +698,6 @@ others
 
     9. *总结：马斯洛的八个需求层次能覆盖绝大多数游戏中的需求，我曾一度认为，掌握了这八个需求层次，就掌握了游戏设计的终极答案，后来一位才华横溢，人美心甜的游戏行业Hr跟我说：“游戏的魅力所在，就是ta充满无限的可能，ta需要产品人的钻研，ta是一门艺术，也就没有完全的标准答案*
 
-
 - 更多需求：三大精神需求：
 
     1. 胜任：我需要觉得自己擅长做什么。
@@ -748,7 +705,6 @@ others
     2. 自主：我需要按自己的方式做事的自由。
 
     3. 关联：我需要和其他人建立联系。
-
 
 - 内在动机、外在动机：
 
@@ -764,8 +720,6 @@ others
 
    (e.g.让小朋友画画) 如此说来，动机并不完全就是上瘾。正相反，给已经能带来内在动机的事情加上外部动机，反而让它滑向偏外在的区间，抽走了内在动机。有些人认为什么活动只要加上简单的积分、徽章、奖励，都能轻松“游戏化”，其实不然
 
- 
-
 - 想做与得做：
 
     我们为什么关心这个呢？因为，固然有许多游戏的动机是追求愉悦，但也不全然如此。还有很多游戏的核心是规避痛苦。你躲避敌人，“坚持不死”，你就处于痛苦回避模式；你挖出金色的星星，打出巧妙连招，则处于愉悦追求模式。两者都是有效动机，结合起来的效果也很好
@@ -776,7 +730,7 @@ others
 
     就算世界依旧，你也有新方法与之互动。此前你大概从来没想到过，因为乍看之下实在不可能。但突然，你发现此时不仅可行，而且心里跃跃欲试。新思路可以扩展我们的大脑，让我们感到无比畅快。
 
-## 10. Some Elements are Game Mechanics 
+## 10. Some Elements are Game Mechanics
 
 游戏机制是游戏真正的核心。剥离美学，技术和故事后，剩下的互动和关系，就是游戏机制。
 
@@ -784,11 +738,11 @@ others
 
 例如棋盘、球场、RPG中的大地图。考虑游戏空间的维度拓展有时会带来意外收获。
 
-1. Are either discrete or continuous 
-    
-2. Have some number of dimensions 
-    
-3. Have bounded areas which may or may not be connected   
+1. Are either discrete or continuous
+
+2. Have some number of dimensions
+
+3. Have bounded areas which may or may not be connected
 
 ![Lens21](./Lens/Lens21.png)
 
@@ -800,7 +754,7 @@ others
 
 ![Lens22](./Lens/Lens22.png)
 
-### 10.3 Actions 
+### 10.3 Actions
 
 玩家能够做出的行动。基本行动，例如按照规则移动象棋的棋子。玩家往往会自己总结出一些较为复杂的策略行动，例如中国象棋中的马后炮。设计者需要考虑在设计中预留适当的给玩家构建策略行动的空间，才能更好地提高游戏体验。
 
@@ -831,7 +785,6 @@ others
 ![Lens23](./Lens/Lens23.png)
 
 ![Lens24](./Lens/Lens24.png)
-
 
 ### 10.4 规则
 
@@ -864,3 +817,169 @@ others
 4、预测纯概率是一种想象中的技巧。（热手谬误&赌徒谬误）
 
 5、控制纯概率是一种想象中的技巧。
+
+## 11. Game Mechanics Must be in Balance
+
+### 11.1 游戏平衡中最常见的12种类型
+
+1. 公平（fairness）。这是对游戏平衡最直观的理解。许多代表性的游戏以对称性（symmetry）保证公平：游戏中对抗的各方享有同样的资源、约束和目标。例如大多数的体育竞技、象棋、跳棋等。这样的游戏可以较为可靠地反映出玩家技巧水平的高低。但是事实上更多的游戏是非对称的（asymmetric）。非对称也有许多优势，例如模拟现实情况、让玩家探索不同的玩法、平衡玩家间的技能水平差别等，总之非对称的情况常常会让游戏更有趣味和挑战性。但是这里就是需要设计者去做平衡的地方。根据传统的看法，一个游戏在到可玩的阶段后需要6个月来调整其平衡性。本书作者则认为应该把游戏开发一半的时间用于确保游戏平衡。
+
+![Lens30](./Lens/Lens30.png)
+
+2. 挑战（challenge）vs 胜利（success）。正如第10章 玩家心理中提到的，如果游戏的挑战太难，玩家会感到受挫；如果游戏的胜利太容易获得，玩家又会感到无聊。所以，在游戏的不同游玩阶段都使玩家在感到挑战和获得胜利中取得平衡，才能使玩家的体验最优化。但是，玩家们的技能水平参差不齐，玩家A感到压力过大时，玩家B可能觉得非常简单，这该怎么解决？
+
+- 2.1. 在每一次胜利后增加难度。
+- 2.2. 让高水平玩家能够快速完成低难度关卡：这样高水平玩家就不会因为花费大量时间在低挑战的环境下游玩而感到无聊。
+- 2.3 在关卡的评价中分层：例如在完成关卡后给与等级评定，得到C就可以进行下一关，但是完成得很完美就能得到A甚至A+的判定。这样，在同样的关卡中，不同水平的玩家就会自己追求不同的目标。
+- 2.4. 在游戏测试（playtest）时包括不同水平的玩家。最好同时参考高水平玩家，和从未接触过这类游戏的新手的意见。
+- 2.5. 给予处于劣势的玩家一些补偿。类比2.1.。
+
+![Lens31](./Lens/Lens31.png)
+
+3. 有意义的选择（meaningful choices）。有意义，指的是这个选择会对后续游戏产生影响。同时，这个选择中不能包含一个明显优于其他选项的最优解。此外，这类选择的数量应当和玩家的期望相匹配，太多的选择会让玩家压力过大，太少的选择则会使玩家感到沮丧。使游戏变得有趣的一类选择称为平衡不对称风险（balanced asymmetric risk），玩家在低风险-低回报和高风险-高回报中做出选择。设计者要做的是让额外的回报值得额外的风险。
+
+
+![Lens32](./Lens/Lens32.png)
+
+![Lens33](./Lens/Lens33.png)
+
+4. 技能（skill）vs 几率（chance）：玩家技能占主导地位的游戏会更像体育竞赛、而几率占主导的游戏则会更加适合休闲的体验。两者的取舍，一般根据你的目标受众的喜好来决定。在具体设计中，可以把两者交替使用：例如，掷色子来决定你有多少行动点（几率），而如何使用行动点则由玩家决定（技能）。
+
+![Lens34](./Lens/Lens34.png)
+
+5. 头脑（head）vs 双手（hands）
+
+![Lens35](./Lens/Lens35.png)
+
+6. 竞争（competition）vs 合作（cooperation）。  竞争与合作是多人游戏中必不可少的元素。竞争是动物的本能，合理的设计竞争机制可以使玩家更有在游戏中胜利的冲动。合作也是社会性动物的本能，游戏中的交流机制是合作所必要的，而设计不可能独自完成的任务也是激发合作的方法。可以根据目标玩家控制游戏中竞争和合作的平衡，或者可以提供两者让玩家自己来选择，团队对抗则能够将两者结合起来。
+
+![Lens36](./Lens/Lens36.png)
+
+![Lens37&38](./Lens/Lens37&38.png)
+
+7. 游戏时间的长短也需要平衡。游戏时间过短，玩家可能没有机会去体验有意义的游戏策略；游戏时间过长则会让玩家感到无聊，或者使一些没有大块时间的玩家放弃游玩。设计者可以通过设置无敌时间使游戏时间延长，也可以设计额外的结束机制限制游戏时间的过长。
+
+![Lens39](./Lens/Lens39.png)
+
+8. 奖赏（rewards）是驱使玩家持续游玩游戏的动力之一，如前所述，人们期望被公正的评判，而好的结果应该带来奖励。游戏中的奖赏可以分为几类：
+
+- 8.1. 赞扬（praise）。通过简单的音声反馈来告诉玩家“打得不错！”——好听的音效、弹出的动画、npc的鼓励等等。
+- 8.2. 分数。有时仅仅是一个有记录作用的数字，但是排行榜、社区分享等等机制能够使高分成为玩家追求的奖赏。
+- 8.3. 游戏时间。某些游戏就是以“尽量在一局中坚持更久”作为游戏目标的，例如经典的三维弹球。这也和人的生存本能相吻合。
+- 8.4. 门。除了生存，探索也是人类的本能。达成一定目标以解锁新的关卡或地图，也是游戏中常见的奖赏。
+- 8.5. 美景。精美的美术/动画展示也可以作为奖赏。
+- 8.6. 表达。这往往不是游戏设定的固定目标，但是留给玩家自我表达的空间也是很好的。
+- 8.7. 力量。在现实生活中，谁都期望能获得更多的力量。在游戏中，获得力量是很容易实现的：例如RPG游戏中获得经验值后的升级、超级玛丽中吃掉蘑菇后变高变强。
+- 8.8. 资源。一般而言类似金钱的游戏内物品，因为有了“内在价值”也成为了玩家追求的物品。
+- 8.9. 地位。排行榜、特殊成就、或者任何可以使玩家在社区中取得更高地位的奖赏。在竞争类玩家中更受欢迎。
+- 8.10. 完成感。在现实中相对难以体验到的，完全完成一个游戏的所有目标的成就感，也是玩家们追求的奖赏。不过这个往往是在整个游戏结束之后，仅一次的奖赏。
+
+在何处给予奖赏，给予多少、什么样的奖赏，是设计者需要考虑的平衡之一。基本而言，有两条规则可以参考：一、玩家往往会对之前得到的奖赏习以为常，所以设计者一般会在游戏进程中逐渐增多奖赏的数量；二、数量随机的奖赏比数量恒定的奖赏更吸引人，即使期望相同
+
+![Lens40](./Lens/Lens40.png)
+
+9. 惩罚，也是游戏的平衡要素之一，和奖赏一般对立考虑。游戏中惩罚的必要性在于：
+
+- 强调游戏中资源的“内在价值”——只有失去才懂得珍惜。
+- 人们喜欢冒险。逃脱失败的苦涩惩罚，而取得的胜利果实会更加甜蜜。
+- 增加游戏的挑战。参看之前的“胜利vs挑战”平衡。
+
+常见的惩罚种类基本和奖赏对应：
+
+- 9.1. 批评/羞辱：从简单的音效、字幕到失败动画，告诉玩家“你做的不够好”
+- 9.2. 失去分数：奇怪的是，这很让玩家痛苦，所以很少出现…如果分数可以被减少，分数的“内在价值”也会被削弱
+- 9.3. 游戏时间减少/游戏结束：Game over。
+- 9.4. 回退：失败后，从比失败之处更提前的位置重新开始。在一些线性推进进程的游戏中常见，重新开始的“重生点”选择正是设计者需要考虑的地方。回退应当是有意义的，不应当是不合理的。
+- 9.5. 失去力量：和力量的获得相对，力量的失去是一种很重的惩罚。一般在实用中，“暂时的”失去会更容易让玩家接受。
+- 9.6. 失去资源：最普通的惩罚。
+
+从心理学角度，奖赏总是比惩罚更有效的强化机制。在可能的情况下，设计者更应该考虑用奖赏来驱动玩家。当必须使用惩罚时，则要慎重选择。惩罚务必是让玩家可理解、可避免的，不然玩家迟早会对这个游戏失去兴趣。
+
+![Lens41](./Lens/Lens41.png)
+
+10. 自由与被控制的体验。游戏的本质之一在于互动性，与很多其他的视听媒体相比，游戏同样提供了编制好的视听体验，但同时给了玩家操作的自由。但是设计者也不应当给玩家太多的自由——游戏并不是对现实的完全模拟，而是一个更有趣的模型。一般而言，游戏中无聊、复杂和不必要的决定和行动，都可以不用让玩家亲自执行。一切都是为了给玩家更好的体验…如果你发现为了达成这个目标，你必须要大量地剥夺玩家自由操作的空间，或许你应该考虑游戏之外的形式来呈现这种体验。
+
+11. 简单与复杂。简单与复杂对于游戏而言都是中性词，重要的是这样的简单性和复杂性是否强化了游戏的体验。游戏的复杂性可以分为两类：
+
+-11.1. 内在复杂性：游戏规则本身的复杂——这是应该避免的。这种复杂性的出现往往是因为设计者企图模仿一个复杂的真实系统，或者为了平衡加入了太多例外的补丁。
+-11.2. 次生复杂性（emergent complexity）：例如围棋，本身固有的核心规则相当简单，但是能够衍生出千万种多样而复杂的棋局。这是设计者应当追求的。
+
+次生复杂性很难被设计，但是设计者们值得花时间尝试它。用一套简单的规则创造出无尽的、平衡的惊喜，这是游戏设计者的理想。要尝试达到它，你只能不停地测试并改进你的游戏，直到惊喜出现。
+
+当然，一定的内在复杂性也是必要的——游戏确实需要能够反映一些现实系统（一般是高度复杂的），而为平衡而做出的改动当然是无可厚非的。只不过设计者需要意识到其中的弊端，并尽量减少内在复杂性。
+
+![Lens42](./Lens/Lens42.png)
+
+增加过多的规则来达到设计者想要的效果，有时被称为“人工平衡”；平衡改动应当是“自然平衡”，即从游戏互动中自然产生的效果需求。
+
+在复杂的情况中也能可靠运行的简单系统，我们称之为“优美（elegant）”，这是一个好游戏应当追求的品质。我们可以通过计算一个游戏元素的目的数量来衡量其“优美”的程度。例如吃豆人中的“豆”，仅仅只是一个点，但是具有5个目的：
+
+1. 给玩家一个短期目标：吃掉离你最近的豆
+2. 给玩家一个长期目标：吃掉地图上所有的豆
+3. 当玩家吃掉它时，玩家的速度会稍稍减慢——这使得追逐战中，豆提供了一个风险平衡：有豆的道路会更慢，但是有得分；无豆的道路更快，但是无得分
+4. 增加玩家的分数，用于衡量成功的程度
+5. 增加玩家的分数，给玩家额外的生命
+
+常常可以考虑一下游戏中只有一个目的的元素们，它们是否能合并到一起？这样会使你的游戏更加优美。
+
+![Lens43](./Lens/Lens43.png)
+
+与优美相对的一种因素是特性（character）。考虑一下比萨斜塔，它的倾斜没有任何目的（就优美原则来说应当被消除或避免），只是一个历史性的遗留意外，但是正是他的倾斜赋予了它与其他塔楼不同的特性。优美有时也会带来无趣。一些奇怪的特性，甚至漏洞，也可能使游戏更加有趣。
+
+![Lens44](./Lens/Lens44.png)
+
+12. 细节与想象。游戏不是体验本身，而是给玩家产生体验的一个结构——也就是说，游戏体验中的一部分细节由设计者拟定，而其他部分是可以让玩家想象产生的。细节与想象空间的平衡可以通过一些方式来实现：
+
+- 12.1. 把你难以完成的部分留给玩家的想象。人的想象力是很强大的。如果你准备提供的细节质量无法与玩家想象的质量相比拟，不如去除细节。例如，如果你准备给你的游戏人物配音，但是既没有人工也没有存储空间，有人也许会建议你使用合成语音。但是，如果仅仅提供字幕，玩家是能够想象出角色的声音的（类似小说和漫画的效果），但是合成语音（除非你的技术力能够超越玩家的想象力）会夺去玩家的想象空间，反而降低了体验质量。
+- 12.2. 为想象提供一定的细节。想象力不是无根之花，必要的、标志性的、有特点的细节能够帮助玩家更好地想象。
+- 12.3. 熟悉的环境不需要太多细节。如果你需要构造的场景是玩家所熟知的，例如现代的街道、普通人的房间，那么你不需要提供很多细节，玩家尽可以用他们日常的记忆加以补足；如果你需要构造的场景是全新的、陌生的，那么你就需要尽可能多的提供细节。
+- 12.4. 望远镜效应。当人们在剧场使用望远镜时，他们只在开场时使用它看清整个舞台的人物和场景，记住后就会把望远镜放到一边，用记忆和想象力补足远处小小人物的表演。许多电子游戏也是一样，只在开始时展示角色的细节，之后便使用具有较少细节的小人代表角色行动——玩家自然会想象全副武装的角色行动时的样子。
+- 12.5. 用细节来激发想象力。很多时候，想象的场景并不一定需要完全符合现实。象棋就是一个很好的例证，事实上谁也不能完全掌控战争中一方军队的所有力量，但是这符合人们的想象（笑）。创造一个让玩家容易激发想象的场景吧。
+
+![Lens45](./Lens/Lens45.png)
+
+### 11.2 Game Balancing Methodologies 
+
+1. 实时确定现在的问题并解决，再循环这个过程。这是之前就提到过的，游戏设计基本的方法论（Problem statement）。
+2. 在准备修改一个数值时，直接将其加倍或减半，而不是小幅度地改动。这样你会对这个改动带来的影响有更清晰的感受，以便于进一步修改。
+3. 训练你的直觉，使猜测更为准确。当你有了足够多的经验，你的直觉往往就能告诉你数值决定的答案。
+4. 记录你的数值模型。好记性不如烂笔头，这样你会对数值与其相关的元素有更明确的认识。
+5. 当你尝试平衡游戏时，你也会对游戏中元素联系的模型有更深的理解。除了在平衡中改进你的游戏，你也应该改进你心中游戏的模型。
+6. 做好平衡的计划。在开始设计时，就应该考虑到将来的平衡工作，为此最好把各个元素都设置得易于修改，最好在运行时也能修改。即使可玩了，发布了也依然要做好继续平衡的准备。
+7. 让玩家来做平衡？很多设计者都有这种想法，但玩家有时并不清楚自己想要什么，大部分时候他们会把游戏变得过于简单，然后失去兴趣，回滚到原始版本后又抱怨太难。在某些地方（例如三角难度选择）上我们可以让玩家做决定，其他时候，游戏平衡还是交给设计者会更好。
+
+
+### 11.3 Balancing Game Economies 
+
+是对设计者相当有挑战的部分。对游戏中的经济学而言，有两个有意义的选择需要玩家做出：
+
+- 我怎么赚钱？
+- 我怎么花钱？
+
+“钱”在这里可以指代大部分的游戏内资源，例如虚拟货币、技能点、宝石等等。在MMO游戏中，如果玩家之间可以自由交易资源，这个问题会变得更加复杂。基本而言，可以考虑这些情况：
+
+- 玩家可以通过什么方式赚钱？是否应该有其他方式？
+- 玩家可以买到什么？为什么？
+- 钱是否太容易，或太难获得？怎样可以改变这种情况？
+- 赚钱和花钱中的选择是否是有意义的？
+- 这个游戏中是应该使用一种货币，还是应该有特殊的货币种类？
+
+![Lens46](./Lens/Lens46.png)
+
+### 11.4 Dynamic Game Balancing 
+
+动态平衡基于这样的一种设想：如果玩家的水平过高或过低，游戏会自动检测这些情况，并自动提高或降低难度。但这样的机制有其缺点：
+
+- 降低了游戏世界的“真实性”。玩家，从某些层面上，是希望游戏世界是有“真实”存在的。
+- 可以被利用。玩家可以故意输掉来达到作弊的效果。
+- 否认玩家的练习提高。许多玩家会认为自己能从失败中吸取教训并提高技巧，如果游戏为此降低难度，他们也许会感到失望。
+
+### 11.5 The Big Picture
+
+要在细节中迷失，平衡感有时是整体的。
+
+![Lens47](./Lens/Lens47.png)
+
+# 12. Game Mechanics Support Puzzles 
+
+
