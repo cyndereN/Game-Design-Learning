@@ -983,3 +983,52 @@ others
 # 12. Game Mechanics Support Puzzles 
 
 
+## 12.1 The Puzzle of Puzzles
+
+A puzzle is a game with a dominant strategy. 
+
+## 12.2 Good Puzzles 
+
+Principle 1: Make the Goal Easily Understood 
+
+Principle 2: Make It Easy to Get Started
+
+![Lens48](./Lens/Lens48.png)
+
+Puzzle Principle 3: Give a Sense of Progress
+
+![Lens49](./Lens/Lens49.png)
+
+Puzzle Principle 4: Give a Sense of Solvability 
+
+Puzzle Principle 5: Increase Difficulty Gradually
+
+Puzzle Principle 6: Parallelism Lets the Player Rest 
+
+有时玩家无法解开特定的某个谜题（俗称卡关），导致整个游戏无法推进，这会给玩家带来挫败感，可能让玩家放弃这个游戏。我们可以在游戏中同时提供平行的多个谜题，让玩家在一个谜题上卡住时可以尝试其他的谜题，同时获得休息。谜题的类型最好不相一致。但是可以使一个谜题的解开，利于其他谜题的解开。
+
+![Lens50](./Lens/Lens50.png)
+
+Puzzle Principle 7: Pyramid Structure Extends Interest 
+
+让多个小谜题的解答导出一个最终的大谜题。最好让最终的谜题有趣、吸引人。
+
+![Lens51](./Lens/Lens51.png)
+
+Puzzle Principle 8: Hints Extend Interest 
+
+在玩家感到无助时提供提示。在提示下解开谜题，比放弃谜题、或在按照攻略速通谜题都是更好的结果。
+
+Puzzle Principle 9: Give the Answer!
+
+如果玩家仔细地考虑了问题，但是还是无法得出答案，在游戏中直接给出答案也能给玩家【解开谜题】的快乐。这和推理小说有些类似…
+
+Puzzle Principle 10: Perceptual Shifts are a Double-Edged Sword
+
+类似脑筋急转弯一般的riddle，往往只需要玩家转换思维定势就能马上给出答案并给玩家一定的成就感，但是一旦无法转换就会陷入无尽的苦恼中。这样的，无法体现出进展的谜题应该在游戏中尽力避免。
+
+![Lens52](./Lens/Lens52.png)
+
+## 13. Players Play Games Through an Interface
+
+### 
