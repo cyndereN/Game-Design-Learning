@@ -1285,4 +1285,141 @@ In previous chapters, we touched on the conflict between story and gameplay. At 
 
 当你尝试引导玩家进入迷人的体验，令他们感到控制、娴熟、成功时，你应当能让这些精妙的间接控制技巧派上用场。
 
-## 17. 
+## 17. Stories and Games Take Place in Worlds
+
+成功的跨媒体世界都有什么共同点
+
+- 它们常常扎根在一个单一的媒体里
+- 它们很直观
+- 它们的核心是富有创造力的个人
+- 它们适合讲多个故事
+- 它们可以通过任意一个入口去理解(不是动不动看原作)
+
+![Lens74](./Lens/Lens74.png)
+
+
+## 18. Worlds Contain Characters
+
+### 18.1 Avatars
+
+The Ideal Form :
+The first type of character that is a good choice as an avatar is the kind that the player has always wanted to be. Characters like this — such as mighty warriors, powerful wizards, attractive princesses, ultra suave secret agents, etc.
+
+The Blank Slate : 
+McCloud makes the interesting point that the less detail that goes into a character, the more opportunity the reader has to project themselves into that character
+
+![Lens75](./Lens/Lens75.png)
+
+### 18.2 Creating Compelling Game Characters
+
+#### Character Tip #1: List Character Functions
+
+Character Functions: 
+1. Hero: The character who plays the game 
+2. Mentor: Gives advice and useful items 
+3. Assistant: Gives occasional tips 
+4. Tutor: Explains how to play the game 
+5. Final Boss: Someone to have the last battle against 
+6. Minions: Bad guys 
+7. Three Bosses: Tough guys to battle against 
+8. Hostage: Someone to rescue 
+9. Princess Mouse — Beautiful, but tough and no nonsense 
+10. Wise Old Owl — Full of wisdom, but forgetful 
+11. Silver Hawk — Angry and vengeful 
+12. Sammy Snake — Amoral, and full of wry humor 
+13. Rat Army — Hundreds of rats with evil red eyes
+
+![Lens76](./Lens/Lens76.png)
+
+#### Character Tip #2: Define and Use Character Traits 
+
+
+![Lens77](./Lens/Lens77.png)
+
+#### Character Tip #3: Use the Interpersonal Circumplex
+
+![Lens78](./Lens/Lens78.png)
+
+
+#### Character Tip #4: Make a Character Web
+
+![Lens79](./Lens/Lens79.png)
+
+#### Character Tip #5: Use Status
+
+
+![Lens80](./Lens/Lens80.png)
+
+
+#### Character Tip #6: Use the Power of the Voice
+
+#### Character Tip #7: Use the Power of the Face
+
+#### Character Tip #8: Powerful Stories Transform Characters 
+
+让各种事件随着时间改变主角
+
+![Lens81](./Lens/Lens81.png)
+
+#### Character Tip #9: Avoid the Uncanny Valley 
+
+## 19. Worlds Contain Spaces
+
+### 19.1 The Purpose of Architecture
+
+当我们称赞一栋大楼的设计非常“优秀”时，我们并没有在谈论这栋大楼的外观。我们所谈论的东西，是在建筑内部所创造出来的优秀体验。
+
+处于这个原因，建筑设计师与游戏设计师可称得上表亲关系。他们都在创造一种结构，而人们必须在进入其中之后才能利用它。不论是建筑设计师还是游戏设计师，都不能直接制造出“体验”——它们都必须依赖一种间接的控制，以此来引导人们获得恰当的体验。最重要的是，两类设计师都想创造出的结构，是一种会为人们带来快乐体验的结构。
+
+### 19.2 组织你的游戏空间
+
+- 活的，就像是拥有某种能量。
+- 完整的，就像没有缺少任何东西。
+- 舒服的，在它们身边很愉快。
+- 自由的，天生就没有限制。
+- 确切地，就像它们本该如此。
+- 无我的，与整个宇宙相连。
+- 永恒的，就像它们一直存在也会永远存在。
+- 没有任何内在矛盾
+
+![Lens82](./Lens/Lens82.png)
+
+亚历山大提出的“生动结构的15种特性”
+
+1.缩放级别。e.g.《孢子》
+
+2.强力中心。…化身处在我们故事宇宙的中心，且在通常情况下，比起无力的化身我们更偏向强有力的。
+
+3.边际。
+
+4.交替重复。
+
+5.正空间。前景和背景元素都有美丽、互补的形状，就好比阴阳。从某种意义上来说，一部平衡得很好的游戏有这样一种特性：是多种交替策略间产生一种连锁的美感。
+
+6.好的形状。“紧凑的”“优美的曲线”
+
+7.局部对称。
+
+8.深度连锁与歧义。当两样东西相互之间链接得过于紧密，以至于它们只有通过对方才能来定义自己。
+
+9.对比。
+
+10.渐变 Gradients。逐渐上升的挑战曲线就是其中一例。
+
+11.粗糙感。
+
+12.回声。回声是一种舒适而统一的重复。当Boss怪物和它的仆从有着某些共同点时，我们能体验到这种回声的特征。好的兴趣曲线也有着这种特点，尤其是分形的兴趣曲线。
+
+13.空虚。“在那些最深刻的中心，都有最完美的整体性。但在它们当中都有一种虚空，就像水，有无限的深度。与其周围杂乱的事物形成对比。（Boss处在一个巨大而又空洞的场所中）
+
+14.简单与内在平静。
+
+15.不分离性。
+
+### 19.3 Real vs. Virtual Architecture
+
+3D空间有没有真实的2D蓝图并不总是重要。重要的是当玩家身处其中时，他们的感觉是怎么样的。
+
+### 19.4 Level Design
+
+我们其实一直在讨论了！
