@@ -1587,3 +1587,16 @@ Soon we won’t be able to make predictions about what life will be like a year 
 
 
 ## 30. Games Transform Their Players
+
+
+![Lens97](./Lens/Lens97.png)
+
+## 31. Designers Have Certain Responsibilities
+
+![Lens98](./Lens/Lens98.png)
+
+## 32. Each Designer has a Motivation
+
+![Lens99](./Lens/Lens99.png)
+
+![Lens100](./Lens/Lens100.png)
