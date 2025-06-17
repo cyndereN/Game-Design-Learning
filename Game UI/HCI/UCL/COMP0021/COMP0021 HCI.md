@@ -1,6 +1,7 @@
 # W1 Intro to ID
 
 ## 1.1 ID
+
 ### 1.1.1 What is ID?
 
 Preece, Rogers & Sharp (2019) "Designing interactive products to support the way people communicate and interact in their everyday and working lives."
@@ -14,6 +15,7 @@ stimulus -> response
 ### 1.1.3 Good Design v.s. Poor Design
 
 Usable (Usability):
+
 - Easy to Learn
 - Effective to use
 - Enjoyable user experience
@@ -23,6 +25,7 @@ Usable (Usability):
 HCI is subset of ID
 
 ### 1.1.5 User experience (UX)
+
 Preece, Rogers & Sharp (2019) "How people feel about a product and their pleasure and satisfaction when using it, looking at it, holding it, and opening or closing it"
 
 4 threds:
@@ -38,7 +41,7 @@ Preece, Rogers & Sharp (2019) "How people feel about a product and their pleasur
 - Prototyping
 - Evaluating
 
- **3 Principles of User-Centered Design**
+**3 Principles of User-Centered Design**
 
 - Early focus on users
 - Empirical measurement 以经验（或实验）为依据
@@ -63,6 +66,7 @@ relate more to the relationship between user and product, rather than product it
   - Supporting
   - Provocative
   - ...
+
 - Undesirable
   - Boring
   - Gimmicky
@@ -125,8 +129,10 @@ Stakeholders: People or organizations that will be affected by the system and ha
 - How can we represent?
 
 ***Persona***: Fictitious character, Type of user, based on user data  
-***Scenario***: Context of user, example of achieving a user goal, simple, natural, personal 
-## 2.1 Descovering.. / Establishing.. / Requirement Engieering
+***Scenario***: Context of user, example of achieving a user goal, simple, natural, personal
+
+## 2.1 Descovering.. / Establishing.. / Requirement Engineering
+
 ## 2.1.1 Aim
 
 - Knowledge of users
@@ -146,6 +152,7 @@ Stakeholders: People or organizations that will be affected by the system and ha
 - Reviews
 - Questionnaire
 - Focus group(several people)
+
 ## 2.1.3 Gathering 
 
 - Pre-existing
@@ -186,6 +193,7 @@ A statement about an intended product that specifies what it is expected to do
   - Semi-structured
 
 ### 2.2.3 Scenario 
+
 Informal narrative description
 
 ### 2.2.4 Principles of Contexual Enquiry
@@ -212,7 +220,7 @@ A product design involving using the skin as finger input surface
 ## 3.1 Sketching 
 
 Help with last 3 of the design process
-- Get the desing right
+- Get the design right
 - Get the right design
   - Many alternatives
 
