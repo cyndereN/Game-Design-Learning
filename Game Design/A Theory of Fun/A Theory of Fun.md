@@ -30,7 +30,7 @@
 
 ### People Are Pattern-matching Machines
 
-"When not looking at someone face-to-face, we oftern misinterpret the information."
+"When not looking at someone face-to-face, we often misinterpret the information."
 
 "Assumption are what brain is best at"
 
@@ -217,7 +217,7 @@ Story, setting, and backplot只是an attempt to give a "side dish" while it comp
     · 不同类型的社会地位更替，本质上源于自我形象和社会声望，其中产生的积极情感都是在社会阶梯中战胜他人的信号，但并不一定是快乐。
 
 对上文解释：
-"Learning patterns is not the only thing that is entertaining. Humans enjoy Primate dominance ganmes, e.g.. You could argue that jockeying for status (自注：争夺地位) is also a challenge, ofc." （自注：除了learning，其他都是enjoyment，learning是fun的本质，且是长时的，其他则是短时的
+"Learning patterns is not the only thing that is entertaining. Humans enjoy Primate dominance games, e.g.. You could argue that jockeying for status (自注：争夺地位) is also a challenge, ofc." （自注：除了learning，其他都是enjoyment，learning是fun的本质，且是长时的，其他则是短时的
 
 "Aesthetic appreciation is enjoyment, not fun.It is recognizing patterns, not learning new ones. Why is beatiful landscape a Delight? Beaty is found in the tension between our expectation and the reality, and only found in settings of extreme order."
 
@@ -238,7 +238,7 @@ Story, setting, and backplot只是an attempt to give a "side dish" while it comp
 ### fun定义
 ***The feedback the brain gives us when we are absorbing patterns for learning purposes***
 
-Fun is contextual. " "I was just doing it for fun." The implication is that we are shrugging off the loss of social status inherent in a loss. Since it was merely a form of practice, perhaps we didn't put forth our best effort." 学校不fun是因为那不是练习而是真实发生的
+Fun is contextual. "I was just doing it for fun." The implication is that we are shrugging off the loss of social status inherent in a loss. Since it was merely a form of practice, perhaps we didn't put forth our best effort. 学校不fun是因为那不是练习而是真实发生的
 
 ### 快乐是什么感觉
 
@@ -303,6 +303,7 @@ In other words, many people are willing to cheat, it's not a sign of people bein
 - **失败必须要有代价**。至少是一个机会成本的代价，或者更多。下一次挑战时，你就被设定从失误的地方进入游戏–无法重来一次。再一次的尝试。可以让你有不一样的准备。
 
 ### Questions to Ask
+
 - 你在接受挑战前做准备了吗？
 
 - 你能用不同的方法准备并且仍然取得成功吗？
@@ -352,7 +353,9 @@ The holy grail of game system design is to make a game where the challenges are 
 
 游戏与其它形式化系统相同，其复杂度只会越来越高，从而越来越背离大众的需求，同时使得玩家中分化出精英阶层，但这同样是对游戏初衷的背叛。
 
-上述的人类本性与游戏目的的矛盾恰恰在游戏设计师身上体现的最为明显。设计师对游戏的模式过于敏感，他们往往只花少量时间去玩一个游戏并分析其模式，再依靠对其它游戏的回忆去制作新游戏。而人收藏的解决方法越多，去追求新事物的可能性就越小，大量派生性作品也由此诞生。***最有创造力的设计师往往是不过分依赖其它游戏来汲取灵感的人。***
+上述的人类本性与游戏目的的矛盾恰恰在游戏设计师身上体现的最为明显。设计师对游戏的模式过于敏感，他们往往只花少量时间去玩一个游戏并分析其模式，再依靠对其它游戏的回忆去制作新游戏。而人收藏的解决方法越多，去追求新事物的可能性就越小，大量派生性作品也由此诞生。
+
+***最有创造力的设计师往往是不过分依赖其它游戏来汲取灵感的人。***
 
 
 ## Chapter 9 Games in Context
@@ -363,7 +366,7 @@ The holy grail of game system design is to make a game where the challenges are 
 
 ![](./human_behavior.jpeg)
 
-游戏是否能被艺术化？作为一种媒体，游戏同样具有互动性，其基本目的是沟通(COmmunicating)，这一点与艺术是相同的。媒体提供信息，娱乐提供令人舒适、简单化的信息，而艺术则提供具有挑战性的信息，能吸引人并使人不得不为之思考。即，艺术使用一种特殊的媒体，在其范围内进行对媒体本身思考的交流沟通。艺术形式分为个人和协作两种，而有些媒体就是来自不同媒体的专家协作的结果，游戏就是一种这样的媒体。
+游戏是否能被艺术化？作为一种媒体，游戏同样具有互动性，其基本目的是沟通(Communicating)，这一点与艺术是相同的。媒体提供信息，娱乐提供令人舒适、简单化的信息，而艺术则提供具有挑战性的信息，能吸引人并使人不得不为之思考。即，艺术使用一种特殊的媒体，在其范围内进行对媒体本身思考的交流沟通。艺术形式分为个人和协作两种，而有些媒体就是来自不同媒体的专家协作的结果，游戏就是一种这样的媒体。
 
 只要作品中的交流要素出色、新颖，单纯的娱乐也可以成为艺术。而游戏正是长于互动的，能改变人们感知世界的方式。但仅仅出色和新颖只意味着技艺的精湛，艺术必须是可以重复回味、不断从中学习新东西的。作为封闭形式系统的游戏要实现这一点，其设计者必须明确游戏的主题，确保玩家能重复接触与主题相关的挑战，并发掘出新的内容。越了解构建游戏的基本模块，就越有可能让游戏达到艺术的高度。
 
@@ -399,7 +402,7 @@ People are plants and games are trellis
 
 "I do connect, I do teach people to be a better person"
 
-## Epilogue Fun Matters, Grandpa
+### Epilogue Fun Matters, Grandpa
 
 "Games are powerful tools for good - they rewire people's brains, just like books and moves and music"
 
