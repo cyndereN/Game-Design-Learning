@@ -4,7 +4,7 @@
 
 ## 2 Video Game Structure and Work Approach
 
-Plot = Dramatic Tension (Conflict xx Stakes/Time = Hero Jeopardy)
+Plot = Dramatic Tension (Conflict x Stakes/Time = Hero Jeopardy)
 
 Conflict: What is the nature of the flight?
 
@@ -50,7 +50,7 @@ SECURITY OR INSTABILITY
 
 ### Jeopardy
 
-Level of conflict and level of stakes determins the intensity of Jeopardy
+Level of conflict and level of stakes determine the intensity of Jeopardy
 
 TIME
 
