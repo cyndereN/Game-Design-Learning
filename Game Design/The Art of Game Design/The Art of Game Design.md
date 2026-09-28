@@ -219,7 +219,7 @@ Jesse 认为 除了上面10点，游戏其实包含了解决问题。A game is a
 
 Strengthen the power of your game’s experience.
 
-*Step 1: Figure out what your them49e is.*
+*Step 1: Figure out what your theme is.*
 
 *Step 2: Use every means possible to reinforce that theme.*
 
