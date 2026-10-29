@@ -1,3 +1,5 @@
+https://vrceus.github.io/Game-Mechanics
+
 # 第1章 设计游戏机制
 
 ## 1.1 规则定义游戏
